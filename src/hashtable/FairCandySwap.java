@@ -1,4 +1,4 @@
-package org.epoch.hashtable;
+package hashtable;
 
 import java.util.Arrays;
 import java.util.HashSet;
