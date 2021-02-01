@@ -32,13 +32,18 @@
 保证爱丽丝与鲍勃的糖果总量不同。
 答案肯定存在。
 ## 解法
-总体思路：sumA−x+y=sumB+x−y
+总体思路：当sumA−x+y=sumB+x−y时，得到结果
 ### 1 暴力破解
+两次遍历获取结果<br>
+时间复杂度：O(i*j)<br>
+空间复杂度：0
 ### 2 哈希表
 记爱丽丝的糖果棒的总大小为sumA，鲍勃的糖果棒的总大小为sumB。<br>
 则有如下等式：sumA−A[i]+B[j]=sumB+A[i]-B[j]<br>
 化简为：A[i]=B[j]+(sumA-sumB)/2<br>
 将B存入HashSet,遍历A数组，判断HashSet中是否有元素b使得当前A数组元素a满足a=b+(sumA-sumB)/2即可。
+时间复杂度：O(i+j)<br>
+空间复杂度：O(i)或O(j)
 ### 代码
-[FairCandySwap.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/org/epoch/hashtable/FairCandySwap.java)
+[FairCandySwap.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/hashtable/FairCandySwap.java)
 
