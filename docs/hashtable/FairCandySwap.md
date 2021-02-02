@@ -23,14 +23,14 @@
 输入：A = [1,2,5], B = [2,4]
 输出：[5,4]
  
-提示：
+<br>提示：
 
-1 <= A.length <= 10000
-1 <= B.length <= 10000
-1 <= A[i] <= 100000
-1 <= B[i] <= 100000
+<br>1 <= A.length <= 10000
+<br>1 <= B.length <= 10000
+<br>1 <= A[i] <= 100000
+<br>1 <= B[i] <= 100000
 保证爱丽丝与鲍勃的糖果总量不同。
-答案肯定存在。
+<br>答案肯定存在。
 ## 解法
 总体思路：当sumA−x+y=sumB+x−y时，得到结果
 ### 1 暴力破解
@@ -44,6 +44,6 @@
 将B存入HashSet,遍历A数组，判断HashSet中是否有元素b使得当前A数组元素a满足a=b+(sumA-sumB)/2即可。
 时间复杂度：O(i+j)<br>
 空间复杂度：O(i)或O(j)
-### 代码
+## 代码
 [FairCandySwap.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/hashtable/FairCandySwap.java)
 
