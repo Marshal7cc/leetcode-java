@@ -33,8 +33,8 @@
 则有如下等式：sumA−A[i]+B[j]=sumB+A[i]-B[j]<br>
 化简为：A[i]=B[j]+(sumA-sumB)/2<br>
 将B存入HashSet,遍历A数组，判断HashSet中是否有元素b使得当前A数组元素a满足a=b+(sumA-sumB)/2即可。
-时间复杂度：O(i+j)<br>
-空间复杂度：O(i)或O(j)
+<br>时间复杂度：O(i+j)
+<br>空间复杂度：O(i)或O(j)
 ## 代码
 [FairCandySwap.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/hashtable/FairCandySwap.java)
 

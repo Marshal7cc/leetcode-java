@@ -1,5 +1,5 @@
 ## Introduction
-Record of solving LeetCode's problems using Java~
+Solving LeetCode's problems by Java~
 
 ## Guide
 ### hash-table
@@ -11,4 +11,4 @@ Record of solving LeetCode's problems using Java~
 |  #     | title                                                                                                                    |       Difficulty |
 |  ----  | ----                                                                                                                     | ----             |
 | 424    | [CharacterReplacement](https://github.com/Marshal1996/LeetCode-Java/blob/master/docs/slidewindow/CharacterReplacement.md)|middle  
-
+| 643    | [FindMaxAverage1](https://github.com/Marshal1996/LeetCode-Java/blob/master/docs/slidewindow/FindMaxAverage1.md)          |easy  
