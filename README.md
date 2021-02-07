@@ -1,7 +1,12 @@
 ## Introduction
-Solving LeetCode's problems by Java~
+LeetCode's solution in Java~
 
 ## Guide
+### array
+|  #     | title                                                                                                                    |       Difficulty |
+|  ----  | ----                                                                                                                     | ----             |
+| 665    | [CheckPossibility](https://github.com/Marshal1996/LeetCode-Java/blob/master/docs/array/CheckPossibility.md)              |easy
+
 ### hash-table
 |  #     | title                                                                                                                    |       Difficulty |
 |  ----  | ----                                                                                                                     | ----             |
