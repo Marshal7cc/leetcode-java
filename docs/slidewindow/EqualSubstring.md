@@ -34,7 +34,7 @@
 <br>0 <= maxCost <= 10^6
 <br>s 和 t 都只含小写英文字母。
 ## 解法
-[==>entrance](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/solution/jin-ke-neng-shi-zi-fu-chuan-xiang-deng-b-higz/)
+[==>SOLUTION<==](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/==>SOLUTION<==/jin-ke-neng-shi-zi-fu-chuan-xiang-deng-b-higz/)
 ## 代码
 [EqualSubstring.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/slidewindow/EqualSubstring.java)
 

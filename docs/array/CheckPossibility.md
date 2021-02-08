@@ -20,7 +20,7 @@
 <br>- 10 ^ 5 <= nums[i] <= 10 ^ 5
 
 ## 解法
-[==>entrance](https://leetcode-cn.com/problems/non-decreasing-array/solution/fei-di-jian-shu-lie-by-leetcode-solution-zdsm/)
+[==>SOLUTION<==](https://leetcode-cn.com/problems/non-decreasing-array/==>SOLUTION<==/fei-di-jian-shu-lie-by-leetcode-==>SOLUTION<==-zdsm/)
 ## 代码
 [CheckPossibility.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/array/CheckPossibility.java)
 
