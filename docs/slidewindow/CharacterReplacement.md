@@ -21,5 +21,5 @@
 ### 1 滑动窗口
 [==>SOLUTION<==](https://leetcode-cn.com/problems/longest-repeating-character-replacement/==>SOLUTION<==/ti-huan-hou-de-zui-chang-zhong-fu-zi-fu-eaacp/)
 ## 代码
-[CharacterReplacement.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/slidewindow/CharacterReplacement.java)
+[CharacterReplacement.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/CharacterReplacement.java)
 

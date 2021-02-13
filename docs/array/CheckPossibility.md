@@ -22,5 +22,5 @@
 ## 解法
 [==>SOLUTION<==](https://leetcode-cn.com/problems/non-decreasing-array/==>SOLUTION<==/fei-di-jian-shu-lie-by-leetcode-==>SOLUTION<==-zdsm/)
 ## 代码
-[CheckPossibility.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/array/CheckPossibility.java)
+[CheckPossibility.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/array/CheckPossibility.java)
 

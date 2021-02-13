@@ -11,5 +11,5 @@
 ## 解法
 [==>SOLUTION<==](https://leetcode-cn.com/problems/pascals-triangle-ii/solution/yang-hui-san-jiao-ii-by-leetcode-solutio-shuk/)
 ## 代码
-[GetRow.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/recursion/GetRow.java)
+[GetRow.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/recursion/GetRow.java)
 

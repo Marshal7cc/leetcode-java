@@ -35,5 +35,5 @@ int add(int val) 将 val 插入数据流 nums 后，返回当前数据流中第 
 ## 解法
 [==>SOLUTION<==](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/solution/shu-ju-liu-zhong-de-di-k-da-yuan-su-by-l-woz8/)
 ## 代码
-[KthLargest.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/priorityqueue/KthLargest.java)
+[KthLargest.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/priorityqueue/KthLargest.java)
 

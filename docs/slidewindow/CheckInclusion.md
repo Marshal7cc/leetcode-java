@@ -22,5 +22,5 @@
 ## 解法
 [==>SOLUTION<==](https://leetcode-cn.com/problems/permutation-in-string/solution/zi-fu-chuan-de-pai-lie-by-leetcode-solut-7k7u/)
 ## 代码
-[CheckInclusion.java](https://github.com/Marshal1996/LeetCode-Java/blob/master/src/slidewindow/CheckInclusion.java)
+[CheckInclusion.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/CheckInclusion.java)
 
