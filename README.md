@@ -9,6 +9,7 @@ LeetCode's solution in Java~
 |  #     | title                                                                                                                                                 |       Difficulty |
 |  ----  | ----                                                                                                                                                  | ----             |
 | 448    | [找到所有数组中消失的数字](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/FindDisappearedNumbers.md)                                                  |easy
+| 485    | [最大连续1的个数](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/FindMaxConsecutiveOnes.md)                                       |easy
 | 665    | [非递减数列](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/CheckPossibility.md)                                                  |easy
 
 ### hash-table
