@@ -19,7 +19,7 @@
 子串 "BBBB" 有最长重复字母, 答案为 4。
 ## 解法
 ### 1 滑动窗口
-[==>SOLUTION<==](https://leetcode-cn.com/problems/longest-repeating-character-replacement/==>SOLUTION<==/ti-huan-hou-de-zui-chang-zhong-fu-zi-fu-eaacp/)
+[==>SOLUTION<==](https://leetcode-cn.com/problems/longest-repeating-character-replacement/solution/ti-huan-hou-de-zui-chang-zhong-fu-zi-fu-eaacp/)
 ## 代码
 [CharacterReplacement.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/CharacterReplacement.java)
 
