@@ -11,6 +11,7 @@ LeetCode's solution in Java~
 | 448    | [找到所有数组中消失的数字](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/FindDisappearedNumbers.md)       |  遍历、原地修改                      |easy
 | 485    | [最大连续1的个数](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/FindMaxConsecutiveOnes.md)               |   遍历                              |easy
 | 561    | [数组拆分 I](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/ArrayPairSum.md)                              |   排序、遍历                        |easy
+| 566    | [重塑矩阵](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/MatrixReshape.md)                               |   二维数组一维化                     |easy
 | 665    | [非递减数列](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/CheckPossibility.md)                          |   遍历                              |easy
 
 ### hash-table
