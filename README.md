@@ -13,6 +13,7 @@ LeetCode's solution in Java~
 | 561    | [数组拆分 I](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/ArrayPairSum.md)                              |   排序、遍历                        |easy
 | 566    | [重塑矩阵](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/MatrixReshape.md)                               |   二维数组一维化                     |easy
 | 665    | [非递减数列](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/CheckPossibility.md)                          |   遍历                              |easy
+| 995    | [K连续位的最小翻转次数*](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/MinKBitFlips.md)                   |   差分数组                          |hard
 
 ### hash-table
 
