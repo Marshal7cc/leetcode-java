@@ -22,9 +22,10 @@ public class MinKBitFlips {
                 if (i + K > len) {
                     return -1;
                 }
-
+                // 下一行可省略，因为diff[i]++对结果无影响
                 diff[i]++;
                 diff[i + K]--;
+                // 这里是对diff[i]++做出的改变
                 revAtIndex += 1;
                 revCount++;
             }
