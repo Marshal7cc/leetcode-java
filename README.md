@@ -24,6 +24,7 @@ LeetCode's solution in Java~
 
 |  #     | title                                                                                                                         |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                          |   ----                             | ----             |
+| 697    | [数组的度](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/hashtable/FindShortestSubArray.md)                    |   哈希表、数组                       |easy
 | 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
 
 ### priority-queue
