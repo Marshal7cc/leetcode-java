@@ -28,7 +28,9 @@ public class MaxSatisfied {
                 count += customers[i + X - 1];
             }
 
-            currentIncr = currentIncr - (grumpy[i - 1] == 1 ? customers[i - 1] : 0) + (grumpy[i + X - 1] == 1 ? customers[i + X - 1] : 0);
+            //currentIncr = currentIncr - (grumpy[i - 1] == 1 ? customers[i - 1] : 0) + (grumpy[i + X - 1] == 1 ? customers[i + X - 1] : 0);
+            //另一种写法如下:
+            currentIncr = currentIncr - grumpy[i - 1] * customers[i - 1] + grumpy[i + X - 1] * customers[i + X - 1];
             maxIncr = Math.max(currentIncr, maxIncr);
         }
 
