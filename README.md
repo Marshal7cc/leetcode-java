@@ -47,6 +47,7 @@ LeetCode's solution in Java~
 | 424    | [替换后的最长重复字符](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/CharacterReplacement.md)       |  双指针                            |middle
 | 567    | [字符串的排列](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/CheckInclusion.md)                     | 滑动窗口                           |middle
 | 643    | [子数组最大平均数I](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/FindMaxAverage.md)                 |  滑动窗口                         |easy
+| 832    | [翻转图像](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/FlipAndInvertImage.md)                    |  模拟优化、双指针                    |easy
 | 978    | [最长湍流子数组](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/MaxTurbulenceSize.md)                 | 滑动窗口                          |middle
 | 992    | [K个不同整数的子数组*](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/SubArraysWithKDistinct.md)      | 问题转换推导、双指针                |hard
 | 1004   | [最大连续1的个数 III](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/LongestOnes.md)                  | 区间内0、1个数统计转换、双指针      |middle
