@@ -15,6 +15,7 @@ LeetCode's solution in Java~
 | 665    | [非递减数列](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/CheckPossibility.md)                          |   遍历                              |easy
 | 766    | [托普利茨矩阵](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/IsToeplitzMatrix.md)                        |   矩阵遍历                           |easy
 | 867    | [转置矩阵](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/Transpose.md)                                   |   矩阵遍历、赋值                     |easy
+| 896    | [单调数列](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/IsMonotonic.md)                                 |   遍历                              |easy
 
 ### difference-array
 
