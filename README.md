@@ -53,6 +53,7 @@ LeetCode's solution in Java~
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |    ----                            | ----             |
 | 424    | [替换后的最长重复字符](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/CharacterReplacement.md)       |  双指针                            |middle
+| 480    | [滑动窗口中位数*](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/MedianSlidingWindow.md)             |  treeSet、优先队列/延迟删除、滑动窗口|hard
 | 567    | [字符串的排列](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/CheckInclusion.md)                     | 滑动窗口                           |middle
 | 643    | [子数组最大平均数I](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/FindMaxAverage.md)                 |  滑动窗口                         |easy
 | 832    | [翻转图像](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/slidewindow/FlipAndInvertImage.md)                    |  模拟优化、双指针                    |easy
