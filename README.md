@@ -34,6 +34,7 @@ LeetCode's solution in Java~
 |  ----  | ----                                                                                                                          |   ----                             | ----             |
 | 697    | [数组的度](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/hashtable/FindShortestSubArray.md)                    |   哈希表、数组                       |easy
 | 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
+| 1178   | [猜字谜*](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/hashtable/FindNumOfValidWords.md)                      |   哈希表、状态压缩、位运算、二进制子集  |hard
 
 ### priority-queue
 
