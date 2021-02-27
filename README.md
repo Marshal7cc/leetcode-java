@@ -22,6 +22,12 @@ LeetCode's solution in Java~
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 995    | [K连续位的最小翻转次数*](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/differencearray/MinKBitFlips.md)                   |   差分数组                          |hard
 
+### divide-and-conquer
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 395    | [至少有K个重复字符的最长子串](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/divideconquer/LongestSubstring.md) |   分治/滑动窗口                     |middle
+
 ### hash-table
 
 |  #     | title                                                                                                                         |    keyword                         |       Difficulty |
