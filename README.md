@@ -9,6 +9,7 @@ LeetCode's solution in Java~
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 303    | [区域和检索 - 数组不可变](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/NumArray.md)                      |  前缀和                             |easy
+| 304    | [区域和检索 - 矩阵不可变](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/NumMatrix.md)                      |  二维数组前缀和                     |middle
 | 448    | [找到所有数组中消失的数字](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/FindDisappearedNumbers.md)       |  遍历、原地修改                      |easy
 | 485    | [最大连续1的个数](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/FindMaxConsecutiveOnes.md)               |   遍历                              |easy
 | 561    | [数组拆分 I](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/array/ArrayPairSum.md)                              |   排序、遍历                        |easy
