@@ -34,5 +34,5 @@
 
 ## 代码
 
-[NumArray.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/array/NumArray.java)
+[NumArray.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/dp/NumArray.java)
 

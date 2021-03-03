@@ -27,6 +27,8 @@ LeetCode's solution in Java~
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 303    | [区域和检索 - 数组不可变](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/dp/NumArray.md)                         |  前缀和                             |easy
+| 304    | [区域和检索 - 矩阵不可变](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/dp/NumMatrix.md)                        |  二维数组前缀和                     |middle
 | 338    | [比特位计数](https://github.com/Marshal7cc/LeetCode-Java/blob/master/docs/dp/CountBits.md)                                    |   动态规划                          |middle
 
 ### divide-and-conquer
