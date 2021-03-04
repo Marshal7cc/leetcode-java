@@ -28,5 +28,5 @@
 
 ## 代码
 
-[maxEnvelopes.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/dp/maxEnvelopes.java)
+[MaxEnvelopes.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/dp/MaxEnvelopes.java)
 
