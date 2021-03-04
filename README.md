@@ -51,6 +51,7 @@ LeetCode's solution in Java~
 
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
 |  ----  | ----                                                                                                                       |  ----                                 | ----             |
+| 232    | [用栈实现队列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/MyQueue.md)                               |  栈、队列                              |easy
 | 703    | [数据流中的第 K 大元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/KthLargest.md)                    |  优先队列                              |easy
 
 ### recursion
