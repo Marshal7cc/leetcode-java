@@ -26,5 +26,5 @@
 
 ## 代码
 
-[MaxSatisfied.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/MaxSatisfied.java)
+[MaxSatisfied.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/slidewindow/MaxSatisfied.java)
 

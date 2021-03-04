@@ -31,5 +31,5 @@
 
 ## 代码
 
-[ArrayPairSum.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/array/ArrayPairSum.java)
+[ArrayPairSum.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/array/ArrayPairSum.java)
 

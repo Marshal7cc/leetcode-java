@@ -27,5 +27,5 @@
 
 ## 代码
 
-[LengthOfLIS.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/dp/LengthOfLIS.java)
+[LengthOfLIS.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/dp/LengthOfLIS.java)
 

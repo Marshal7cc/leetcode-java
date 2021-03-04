@@ -34,5 +34,5 @@
 
 ## 代码
 
-[MinKBitFlips.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/differencearray/MinKBitFlips.java)
+[MinKBitFlips.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/differencearray/MinKBitFlips.java)
 

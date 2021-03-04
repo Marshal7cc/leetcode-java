@@ -27,5 +27,5 @@
 ## 解法
 [==>SOLUTION<==](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/solution/k-ge-bu-tong-zheng-shu-de-zi-shu-zu-by-l-ud34/)
 ## 代码
-[SubArraysWithKDistinct.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/SubArraysWithKDistinct.java)
+[SubArraysWithKDistinct.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/slidewindow/SubArraysWithKDistinct.java)
 

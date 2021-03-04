@@ -42,5 +42,5 @@
 ## 解法
 [==>SOLUTION<==](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/solution/ke-huo-de-de-zui-da-dian-shu-by-leetcode-7je9/)
 ## 代码
-[MaxScore.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/MaxScore.java)
+[MaxScore.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/slidewindow/MaxScore.java)
 

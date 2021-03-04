@@ -21,5 +21,5 @@
 
 ## 代码
 
-[LongestSubarray.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/LongestSubarray.java)
+[LongestSubarray.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/slidewindow/LongestSubarray.java)
 

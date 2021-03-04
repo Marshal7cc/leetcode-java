@@ -30,5 +30,5 @@
 
 ## 代码
 
-[NumMatrix.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/dp/NumMatrix.java)
+[NumMatrix.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/dp/NumMatrix.java)
 

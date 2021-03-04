@@ -37,6 +37,6 @@
 
 ## 代码
 
-[FindNumOfValidWords.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/hashtable/FindNumOfValidWords.java)
+[FindNumOfValidWords.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/hashtable/FindNumOfValidWords.java)
 
 

@@ -26,5 +26,5 @@ N 对情侣坐在连续排列的 2N 个座位上，想要牵到对方的手。 �
 
 ## 代码
 
-[MinSwapsCouples.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/unionfind/MinSwapsCouples.java)
+[MinSwapsCouples.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/unionfind/MinSwapsCouples.java)
 

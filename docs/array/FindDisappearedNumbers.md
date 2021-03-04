@@ -15,5 +15,5 @@
 ## 解法
 [==>SOLUTION<==](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/solution/zhao-dao-suo-you-shu-zu-zhong-xiao-shi-d-mabl/)
 ## 代码
-[FindDisappearedNumbers.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/array/FindDisappearedNumbers.java)
+[FindDisappearedNumbers.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/array/FindDisappearedNumbers.java)
 

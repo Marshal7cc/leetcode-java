@@ -36,5 +36,5 @@
 <br>时间复杂度：O(i+j)
 <br>空间复杂度：O(i)或O(j)
 ## 代码
-[FairCandySwap.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/hashtable/FairCandySwap.java)
+[FairCandySwap.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/hashtable/FairCandySwap.java)
 

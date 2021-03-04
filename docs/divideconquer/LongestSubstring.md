@@ -22,5 +22,5 @@
 
 ## 代码
 
-[LongestSubstring.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/divideconquer/LongestSubstring.java)
+[LongestSubstring.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/divideconquer/LongestSubstring.java)
 

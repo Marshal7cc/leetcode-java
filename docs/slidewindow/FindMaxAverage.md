@@ -15,5 +15,5 @@
 ### 1 滑动窗口
 注意点：不必每个子数组遍历求和，只需求遍历第一个子数组求和，后续子数组在窗口滑动时减去左元素再加上右元素即为和。
 ## 代码
-[FindMaxAverage.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/FindMaxAverage.java)
+[FindMaxAverage.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/slidewindow/FindMaxAverage.java)
 

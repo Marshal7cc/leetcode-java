@@ -36,5 +36,5 @@
 ## 解法
 [==>SOLUTION<==](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/solution/jin-ke-neng-shi-zi-fu-chuan-xiang-deng-b-higz/)
 ## 代码
-[EqualSubstring.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/EqualSubstring.java)
+[EqualSubstring.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/slidewindow/EqualSubstring.java)
 

@@ -31,5 +31,5 @@
 ## 解法
 [==>SOLUTION<==](https://leetcode-cn.com/problems/longest-turbulent-subarray/solution/zui-chang-tuan-liu-zi-shu-zu-by-leetcode-t4d8/)
 ## 代码
-[MaxTurbulenceSize.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/MaxTurbulenceSize.java)
+[MaxTurbulenceSize.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/slidewindow/MaxTurbulenceSize.java)
 

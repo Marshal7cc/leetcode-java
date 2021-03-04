@@ -34,5 +34,5 @@
 
 ## 代码
 
-[MedianSlidingWindow.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/MedianSlidingWindow.java)
+[MedianSlidingWindow.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/slidewindow/MedianSlidingWindow.java)
 

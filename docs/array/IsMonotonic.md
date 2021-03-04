@@ -30,5 +30,5 @@
 
 ## 代码
 
-[IsMonotonic.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/array/IsMonotonic.java)
+[IsMonotonic.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/array/IsMonotonic.java)
 

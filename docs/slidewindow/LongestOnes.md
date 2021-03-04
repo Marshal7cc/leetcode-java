@@ -31,5 +31,5 @@
 
 ## 代码
 
-[LongestOnes.java](https://github.com/Marshal7cc/LeetCode-Java/blob/master/src/slidewindow/LongestOnes.java)
+[LongestOnes.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/slidewindow/LongestOnes.java)
 
