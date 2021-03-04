@@ -1,4 +1,4 @@
-package priorityqueue;
+package queue;
 
 import java.util.PriorityQueue;
 

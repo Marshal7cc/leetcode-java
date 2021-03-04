@@ -47,11 +47,11 @@ LeetCode's solution in Java~
 | 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
 | 1178   | [猜字谜*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindNumOfValidWords.md)                      |   哈希表、状态压缩、位运算、二进制子集  |hard
 
-### priority-queue
+### queue
 
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
 |  ----  | ----                                                                                                                       |  ----                                 | ----             |
-| 703    | [数据流中的第 K 大元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/priorityqueue/KthLargest.md)            |  优先队列                             |easy
+| 703    | [数据流中的第 K 大元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/KthLargest.md)                    |  优先队列                              |easy
 
 ### recursion
 
