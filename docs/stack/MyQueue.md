@@ -42,5 +42,5 @@
 
 ## 代码
 
-[MyQueue.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/queue/MyQueue.java)
+[MyQueue.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/stack/MyQueue.java)
 

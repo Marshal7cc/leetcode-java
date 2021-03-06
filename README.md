@@ -51,7 +51,6 @@ LeetCode's solution in Java~
 
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
 |  ----  | ----                                                                                                                       |  ----                                 | ----             |
-| 232    | [用栈实现队列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/MyQueue.md)                               |  栈、队列                              |easy
 | 703    | [数据流中的第 K 大元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/KthLargest.md)                    |  优先队列                              |easy
 
 ### recursion
@@ -76,6 +75,12 @@ LeetCode's solution in Java~
 | 1208   | [尽可能使字符串相等](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/EqualSubstring.md)                | 双指针                            |middle
 | 1423   | [可获得的最大点数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MaxScore.md)                       |  滑动窗口                          |middle
 | 1438   | [绝对差不超过限制的最长连续子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/LongestSubarray.md)  |  滑动窗口、优先队列、TreeMap        |middle
+
+### stack
+
+|  #     | title                                                                                                                       |    keyword                           |       Difficulty |
+|  ----  | ----                                                                                                                        |    ----                              | ----             |
+| 232    | [用栈实现队列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/MyQueue.md)                               |  栈、队列                              |easy
 
 ### [union-find](https://zhuanlan.zhihu.com/p/125604577)
 
