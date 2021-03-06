@@ -1,6 +1,6 @@
 ## Introduction
 
-LeetCode's solution in Java~
+leetcode's solution in Java.
 
 ## Guide
 
@@ -80,7 +80,9 @@ LeetCode's solution in Java~
 
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
-| 232    | [用栈实现队列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/MyQueue.md)                               |  栈、队列                              |easy
+| 232    | [用栈实现队列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/MyQueue.md)                                |  栈、队列                              |easy
+| 496    | [下一个更大元素 I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElement.md)                 |  单调栈                               |easy
+| 503    | [下一个更大元素 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElements.md)               |  单调栈                               |middle
 
 ### [union-find](https://zhuanlan.zhihu.com/p/125604577)
 
