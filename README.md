@@ -33,6 +33,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 5      | [最长回文子串@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestPalindrome.md)                         |  dp/中心扩散                        |middle
 | 300    | [最长递增子序列@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LengthOfLIS.md)                              |  LIS                               |middle
 | 303    | [区域和检索 - 数组不可变](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumArray.md)                         |  前缀和                             |easy
 | 304    | [区域和检索 - 矩阵不可变](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumMatrix.md)                        |  二维数组前缀和                     |middle
