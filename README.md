@@ -17,6 +17,12 @@ leetcode's solution in Java.
 | 867    | [转置矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/Transpose.md)                                   |   矩阵遍历、赋值                     |easy
 | 896    | [单调数列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/IsMonotonic.md)                                 |   遍历                              |easy
 
+### backtracking
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 131    | [分割回文串*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/Partition.md)                         |   回溯、动态规划                     |middle
+
 ### difference-array
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
