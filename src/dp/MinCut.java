@@ -25,7 +25,7 @@ public class MinCut {
         // 二次dp
         // ans[i]=min{ans[j]}+1,且要求[j+1,i] 是一个回文串(0≤j<i)
         int[] ans = new int[len];
-        Arrays.fill(ans, 1999);
+        Arrays.fill(ans, len - 1);
         for (int i = 0; i < len; i++) {
             if (res[0][i]) {
                 ans[i] = 0;
