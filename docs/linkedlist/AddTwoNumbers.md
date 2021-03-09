@@ -32,6 +32,6 @@
 
 ## 代码
 
-[AddTwoNumbers.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/hashtable/linkedlist.java)
+[AddTwoNumbers.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/linkedlist/AddTwoNumbers.java)
 
 
