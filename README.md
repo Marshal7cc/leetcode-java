@@ -57,6 +57,12 @@ leetcode's solution in Java.
 | 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
 | 1178   | [猜字谜*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindNumOfValidWords.md)                      |   哈希表、状态压缩、位运算、二进制子集  |hard
 
+### linked-list
+
+|  #     | title                                                                                                                      |    keyword                            |       Difficulty |
+|  ----  | ----                                                                                                                       |  ----                                 | ----             |
+| 2      | [两数相加](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/AddTwoNumbers.md)                        |  链表、模拟                            |middle
+
 ### queue
 
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
