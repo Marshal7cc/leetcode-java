@@ -24,6 +24,12 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 131    | [分割回文串*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/Partition.md)                         |   回溯、动态规划                     |middle
 
+### binary-search
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 441    | [排列硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ArrangeCoins.md)                         |   二分查找、等差数列                 |easy
+
 ### difference-array
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
