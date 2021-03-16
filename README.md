@@ -19,6 +19,7 @@ leetcode's solution in Java.
 | 867    | [转置矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/Transpose.md)                                   |   矩阵遍历、赋值                     |easy
 | 896    | [单调数列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/IsMonotonic.md)                                 |   遍历                              |easy
 | 1128   | [等价多米诺骨牌对的数量](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/NumEquivDominoPairs.md)            |   一次遍历                              |easy
+| 1480   | [一维数组的动态和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/RunningSum.md)                           |   遍历、原地修改                     |easy
 
 ### backtracking
 
