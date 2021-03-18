@@ -19,7 +19,7 @@
 ## 解法
 
 [==>SOLUTION<==](https://leetcode-cn.com/problems/reverse-linked-list-ii/solution/fan-zhuan-lian-biao-ii-by-leetcode-solut-teyq/)
-
+[====>TIPS<====](https://leetcode-cn.com/problems/reverse-linked-list-ii/solution/yi-ge-neng-ying-yong-suo-you-lian-biao-t-vjx6/)
 ## 代码
 
 [ReverseBetween.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/linkedlist/ReverseBetween.java)
