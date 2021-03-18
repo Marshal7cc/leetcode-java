@@ -81,6 +81,8 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
 |  ----  | ----                                                                                                                       |  ----                                 | ----             |
 | 2      | [两数相加](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/AddTwoNumbers.md)                        |  链表、模拟                            |middle
+| 92     | [反转链表 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/ReverseBetween.md)                    |  迭代、递归                            |middle
+| 206    | [反转链表@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/ReverseList.md)                         |  迭代、递归                            |easy
 
 ### queue
 
