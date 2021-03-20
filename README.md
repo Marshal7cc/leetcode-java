@@ -117,6 +117,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
+| 150    | [逆波兰表达式求值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/EvalRPN.md)                             |  栈                                  |middle
 | 224    | [基本计算器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Calculate.md)                                |  栈                                  |hard
 | 227    | [基本计算器 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Calculate2.md)                            |  栈                                  |middle
 | 232    | [用栈实现队列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/MyQueue.md)                                |  栈、队列                              |easy
