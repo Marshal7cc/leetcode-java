@@ -141,6 +141,12 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
 | 1603   | [设计停车系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ParkingSystem.md)                   |    模拟                               |easy
 
+### 剑指offer
+
+|  #     | title                                                                                                                       |    keyword                           |       Difficulty |
+|  ----  | ----                                                                                                                        |    ----                              | ----             |
+| 17     | [打印从1到最大的n位数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/offer/PrintNumbers.md)                    |    暴力                              |easy
+
 ### sql(mysql)
 
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
