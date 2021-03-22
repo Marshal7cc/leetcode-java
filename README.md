@@ -78,6 +78,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                         |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                          |   ----                             | ----             |
+| 191    | [位1的个数@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/iterative/HammingWeight.md)                          |   位运算、迭代                      |easy
 | 1342   | [将数字变成 0 的操作次数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/iterative/NumberOfSteps.md)              |   位运算、迭代/递归                  |easy
 
 ### linked-list
