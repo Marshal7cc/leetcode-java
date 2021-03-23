@@ -40,6 +40,12 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 995    | [K连续位的最小翻转次数*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/differencearray/MinKBitFlips.md)                   |   差分数组                          |hard
 
+### dfs
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 341    | [扁平化嵌套列表迭代器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/NestedIterator.md)                     |  dfs、栈                            |middle
+
 ### dp
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
