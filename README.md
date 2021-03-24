@@ -70,6 +70,12 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 395    | [至少有K个重复字符的最长子串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/divideconquer/LongestSubstring.md) |   分治/滑动窗口                     |middle
 
+### enumeration
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 456    | [132模式](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/enumeration/Find132pattern.md)                         |   枚举、有序集合                    |middle
+
 ### hash-table
 
 |  #     | title                                                                                                                         |    keyword                         |       Difficulty |
