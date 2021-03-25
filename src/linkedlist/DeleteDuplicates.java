@@ -8,6 +8,7 @@ public class DeleteDuplicates {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode vHead = new ListNode(0, head);
 
+        // virtual head
         ListNode cur = vHead;
         while (cur.next != null && cur.next.next != null) {
             if (cur.next.val == cur.next.next.val) {
