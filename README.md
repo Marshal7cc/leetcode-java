@@ -39,6 +39,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 94     | [二叉树的中序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/InorderTraversal.md)                |   迭代、递归                       |middle
+| 173    | [二叉搜索树迭代器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/BSTIterator.md)                     |   迭代、递归                       |middle
 
 ### difference-array
 
