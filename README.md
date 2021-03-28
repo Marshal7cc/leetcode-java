@@ -34,6 +34,12 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 441    | [排列硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ArrangeCoins.md)                         |   二分查找、等差数列                 |easy
 
+### binary-tree
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 94     | [二叉树的中序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/InorderTraversal.md)                |   迭代、递归                       |middle
+
 ### difference-array
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
