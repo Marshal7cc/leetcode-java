@@ -32,6 +32,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 74     | [搜索二维矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/SearchMatrix.md)                      |   二分查找                         |middle
 | 441    | [排列硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ArrangeCoins.md)                         |   二分查找、等差数列                 |easy
 
 ### binary-tree
