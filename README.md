@@ -26,6 +26,8 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 78     | [子集](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/Subsets.md)                                 |   回溯                               |middle
+| 90     | [子集 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/SubsetsWithDup.md)                       |   回溯                               |middle
 | 131    | [分割回文串*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/Partition.md)                         |   回溯、动态规划                     |middle
 
 ### binary-search
