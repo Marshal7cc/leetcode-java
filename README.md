@@ -26,8 +26,8 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
-| 78     | [子集?](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/Subsets.md)                                 |   回溯                               |middle
-| 90     | [子集 II?](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/SubsetsWithDup.md)                       |   回溯                               |middle
+| 78     | [子集](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/Subsets.md)                                 |   回溯                               |middle
+| 90     | [子集 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/SubsetsWithDup.md)                       |   回溯                               |middle
 | 131    | [分割回文串*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/Partition.md)                         |   回溯、动态规划                     |middle
 
 ### binary-search
@@ -155,6 +155,7 @@ leetcode's solution in Java.
 | 331    | [验证二叉树的前序序列化?](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/IsValidSerialization.md)          |  栈                                   |middle
 | 496    | [下一个更大元素 I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElement.md)                 |  单调栈                               |easy
 | 503    | [下一个更大元素 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElements.md)               |  单调栈                               |middle
+| 1006   | [ 笨阶乘](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Clumsy.md)                                     |  栈                                   |middle
 | 1047   | [ 删除字符串中的所有相邻重复项](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/RemoveDuplicates.md)       |   字符串模拟栈                         |easy
 
 ### [union-find](https://zhuanlan.zhihu.com/p/125604577)
