@@ -61,6 +61,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 5      | [最长回文子串@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestPalindrome.md)                         |  dp/中心扩散                        |middle
+| 42     | [接雨水](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/Trap.md)                                            |  dp                                 |hard
 | 53     | [最大子序和(=>152)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MaxSubArray.md)                                  |  dp/分治                             |easy
 | 115    | [不同的子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumDistinct.md)                                  |  dp                               |hard
 | 132    | [分割回文串 II*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MinCut.md)                                    |  二次dp                             |hard
