@@ -74,6 +74,7 @@ leetcode's solution in Java.
 | 304    | [区域和检索 - 矩阵不可变](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumMatrix.md)                        |  二维数组前缀和                     |middle
 | 338    | [比特位计数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CountBits.md)                                    |   动态规划                          |middle
 | 354    | [俄罗斯套娃信封问题*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MaxEnvelopes.md)                         |  LIS、问题推导                      |hard
+| 1143   | [最长公共子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestCommonSubsequence.md)                  |  二维dp                            |middle
 
 ### divide-and-conquer
 
