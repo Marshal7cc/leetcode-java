@@ -88,6 +88,12 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 456    | [132模式](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/enumeration/Find132pattern.md)                         |   枚举、有序集合                    |middle
 
+### greedy
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 781    | [森林中的兔子](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/NumRabbits.md)                              |   贪心                            |middle
+
 ### hash-table
 
 |  #     | title                                                                                                                         |    keyword                         |       Difficulty |
