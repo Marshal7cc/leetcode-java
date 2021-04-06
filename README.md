@@ -12,6 +12,7 @@ leetcode's solution in Java.
 | 54     | [螺旋矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/SpiralOrder.md)                                 |  模拟                              |middle
 | 59     | [螺旋矩阵 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/GenerateMatrix.md)                           |  模拟                              |middle
 | 73     | [矩阵置零](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/SetZeroes.md)                                   |  原地修改                          |middle
+| 80     | [删除有序数组中的重复项 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/RemoveDuplicates2.md)            |  双指针                             |middle
 | 88     | [合并两个有序数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/Merge.md)                               |  逆向双指针                          |easy
 | 448    | [找到所有数组中消失的数字](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindDisappearedNumbers.md)       |  遍历、原地修改                      |easy
 | 485    | [最大连续1的个数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindMaxConsecutiveOnes.md)               |   遍历                              |easy
