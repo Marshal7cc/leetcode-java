@@ -37,6 +37,8 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 33     | [搜索旋转排序数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/Search.md)                        |   二分查找                         |middle
+| 81     | [搜索旋转排序数组 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/Search2.md)                    |   二分查找                         |middle
 | 74     | [搜索二维矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/SearchMatrix.md)                      |   二分查找                         |middle
 | 441    | [排列硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ArrangeCoins.md)                         |   二分查找、等差数列                 |easy
 
