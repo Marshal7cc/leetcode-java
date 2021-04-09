@@ -41,6 +41,7 @@ leetcode's solution in Java.
 | 81     | [搜索旋转排序数组 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/Search2.md)                    |   二分查找                         |middle
 | 74     | [搜索二维矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/SearchMatrix.md)                      |   二分查找                         |middle
 | 153    | [寻找旋转排序数组中的最小值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FindMin.md)              |   二分查找                         |middle
+| 154    | [寻找旋转排序数组中的最小值 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FindMinTwo.md)        |   二分查找                         |hard
 | 441    | [排列硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ArrangeCoins.md)                         |   二分查找、等差数列                 |easy
 | 704    | [二分查找](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/Original.md)                             |   二分查找                          |easy
 
