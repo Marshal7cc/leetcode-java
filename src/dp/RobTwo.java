@@ -29,6 +29,9 @@ public class RobTwo {
         dp[1] = Math.max(nums[0], nums[1]);
         for (int i = 2; i < n; i++) {
             // 状态转换方程
+            // 这里分为抢劫第i间和不抢劫第i间两种情况,取其最大值
+            // 1 抢劫第i间      dp[i-2]+nums[i]
+            // 2 不抢劫第i间    dp[i-1]
             dp[i] = Math.max(dp[i - 1], dp[i - 2] + nums[i]);
         }
         return dp[n - 1];
