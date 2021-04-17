@@ -151,6 +151,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |    ----                            | ----             |
+| 220    | [存在重复元素 III](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/ContainsNearbyAlmostDuplicate.md) |  滑动窗口、有序集合                 |middle
 | 424    | [替换后的最长重复字符](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/CharacterReplacement.md)       |  双指针                            |middle
 | 480    | [滑动窗口中位数*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MedianSlidingWindow.md)             |  treeSet、优先队列/延迟删除、滑动窗口|hard
 | 567    | [字符串的排列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/CheckInclusion.md)                     | 滑动窗口                           |middle
