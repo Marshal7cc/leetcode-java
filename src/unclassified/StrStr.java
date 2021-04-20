@@ -35,6 +35,7 @@ public class StrStr {
 
     /**
      * 获取next数组
+     * dp思想
      *
      * @param pattern
      * @return
@@ -47,8 +48,9 @@ public class StrStr {
         int[] next = new int[n];
         next[0] = 0;
 
-        // j代表前缀末尾的后一位，所以从0开始
-        // i代表后缀末尾的后一位
+        // j代表前缀最后一位，前缀可以包含第一个字母，所以从0开始
+        // 同时j代表了前后缀相等的长度即当前next[i]对应的值
+        // i代表后缀最后一位，后缀不能包含第一个字母，所以从1开始
         int j = 0;
         for (int i = 1; i < n; i++) {
             // j要保证大于0，因为下面有取j-1作为数组下标的操作
