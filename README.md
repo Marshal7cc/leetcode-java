@@ -74,6 +74,7 @@ leetcode's solution in Java.
 | 42     | [接雨水](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/Trap.md)                                            |  dp                                 |hard
 | 53     | [最大子序和(=>152)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MaxSubArray.md)                                  |  dp/分治                             |easy
 | 87     | [<font color="#660000">扰乱字符串?</font><br />](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/IsScramble.md)                                  |  记忆化搜索、dp                       |hard
+| 91     | [解码方法](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumDecodings.md)                                  |  dp                                  |middle
 | 115    | [不同的子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumDistinct.md)                                  |  dp                               |hard
 | 132    | [分割回文串 II*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MinCut.md)                                    |  二次dp                             |hard
 | 152    | [乘积最大子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MaxProduct.md)                                |  dp                                |middle
