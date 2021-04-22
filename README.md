@@ -136,6 +136,12 @@ leetcode's solution in Java.
 | 92     | [反转链表 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/ReverseBetween.md)                    |  迭代、递归                            |middle
 | 206    | [反转链表@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/ReverseList.md)                         |  迭代、递归                            |easy
 
+### matrix
+
+|  #     | title                                                                                                                      |    keyword                            |       Difficulty |
+|  ----  | ----                                                                                                                       |  ----                                 | ----             |
+| 363    | [矩形区域不超过 K 的最大数值和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/MaxSumSubmatrix.md)       |  二维数组前缀和、二分                   |hard
+
 ### queue
 
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
