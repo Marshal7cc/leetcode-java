@@ -92,6 +92,7 @@ leetcode's solution in Java.
 | 354    | [俄罗斯套娃信封问题*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MaxEnvelopes.md)                         |  LIS、问题推导                      |hard
 | 368    | [最大整除子集](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LargestDivisibleSubset.md)                      |  dp、逆推                          |middle
 | 377    | [组合总和 Ⅳ](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CombinationSum4.md)                              |  dp                               |middle
+| 403    | [青蛙过河[?]](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CanCross.md)                                        |  dp                               |hard
 | 1143   | [最长公共子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestCommonSubsequence.md)                  |  二维dp                            |middle
 
 ### divide-and-conquer
