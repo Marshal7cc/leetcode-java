@@ -69,6 +69,7 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 341    | [扁平化嵌套列表迭代器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/NestedIterator.md)                     |  dfs、栈                            |middle
 | 690    | [员工的重要性](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/GetImportance.md)                              |  dfs                               |easy
+| 872    | [叶子相似的树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LeafSimilar.md)                                |  dfs                               |easy
 
 ### dp
 
