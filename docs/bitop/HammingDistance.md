@@ -26,5 +26,5 @@
 
 ## 代码
 
-[HammingWeight.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/iterative/HammingDistance.java)
+[HammingWeight.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/bitop/HammingDistance.java)
 

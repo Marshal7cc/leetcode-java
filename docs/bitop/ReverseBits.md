@@ -35,5 +35,5 @@
 
 ## 代码
 
-[ReverseBits.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/iterative/ReverseBits.java)
+[ReverseBits.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/bitop/ReverseBits.java)
 

@@ -37,5 +37,5 @@
 
 ## 代码
 
-[NumberOfSteps.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/iterative/NumberOfSteps.java)
+[NumberOfSteps.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/bitop/NumberOfSteps.java)
 

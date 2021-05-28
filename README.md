@@ -126,15 +126,15 @@ leetcode's solution in Java.
 | 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
 | 1178   | [猜字谜*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindNumOfValidWords.md)                      |   哈希表、状态压缩、位运算、二进制子集  |hard
 
-### iterative
+### bit-op
 
 |  #     | title                                                                                                                         |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                          |   ----                             | ----             |
-| 190    | [颠倒二进制位](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/iterative/ReverseBits.md)                          |   位运算、迭代                      |easy
-| 191    | [位1的个数@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/iterative/HammingWeight.md)                          |   位运算、迭代                      |easy
-| 461    | [汉明距离](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/iterative/HammingDistance.md)                          |   位运算、迭代                      |easy
-| 477    | [汉明距离总和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/iterative/TotalHammingDistance.md)                 |   位运算、迭代                      |middle
-| 1342   | [将数字变成 0 的操作次数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/iterative/NumberOfSteps.md)              |   位运算、迭代/递归                  |easy
+| 190    | [颠倒二进制位](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/ReverseBits.md)                          |   位运算、迭代                      |easy
+| 191    | [位1的个数@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/HammingWeight.md)                          |   位运算、迭代                      |easy
+| 461    | [汉明距离](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/HammingDistance.md)                          |   位运算、迭代                      |easy
+| 477    | [汉明距离总和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/TotalHammingDistance.md)                 |   位运算、迭代                      |middle
+| 1342   | [将数字变成 0 的操作次数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/NumberOfSteps.md)              |   位运算、迭代/递归                  |easy
 
 ### linked-list
 

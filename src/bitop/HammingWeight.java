@@ -1,4 +1,4 @@
-package iterative;
+package bitop;
 
 /**
  * @author Marshal
