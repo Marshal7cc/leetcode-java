@@ -133,6 +133,7 @@ leetcode's solution in Java.
 | 190    | [颠倒二进制位](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/ReverseBits.md)                          |   位运算、迭代                      |easy
 | 191    | [位1的个数@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/HammingWeight.md)                          |   位运算、迭代                      |easy
 | 231    | [2 的幂](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/IsPowerOfTwo.md)                              |   位运算、迭代                      |easy
+| 342    | [4 的幂](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/IsPowerOfFour.md)                              |   位运算                           |easy
 | 461    | [汉明距离](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/HammingDistance.md)                          |   位运算、迭代                      |easy
 | 477    | [汉明距离总和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/TotalHammingDistance.md)                 |   位运算、迭代                      |middle
 | 1342   | [将数字变成 0 的操作次数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/NumberOfSteps.md)              |   位运算、迭代/递归                  |easy
