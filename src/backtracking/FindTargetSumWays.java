@@ -12,6 +12,12 @@ public class FindTargetSumWays {
         return count;
     }
 
+    /**
+     * @param nums
+     * @param target
+     * @param index  已经累加的数组元素的个数 index+1
+     * @param sum    已经累加的数组总和       sum+nums[index]
+     */
     private void backTrack(int[] nums, int target, int index, int sum) {
         if (index == nums.length) {
             if (sum == target) {
