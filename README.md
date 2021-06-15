@@ -49,6 +49,7 @@ leetcode's solution in Java.
 | 374    | [猜数字大小](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/GuessNumber.md)                         |   二分查找                         |easy
 | 441    | [排列硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ArrangeCoins.md)                         |   二分查找、等差数列                 |easy
 | 704    | [二分查找](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/Original.md)                             |   二分查找                          |easy
+| 852    | [山脉数组的峰顶索引](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/PeakIndexInMountainArray/Original.md)         |   二分查找                          |easy
 | 1011   | [在 D 天内送达包裹的能力](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ShipWithinDays.md)          |   二分查找                          |middle
 
 ### binary-tree
