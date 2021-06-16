@@ -101,6 +101,7 @@ leetcode's solution in Java.
 | 368    | [最大整除子集](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LargestDivisibleSubset.md)                      |  dp、逆推                          |middle
 | 377    | [组合总和 Ⅳ](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CombinationSum4.md)                              |  dp                               |middle
 | 403    | [青蛙过河[?]](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CanCross.md)                                        |  dp                               |hard
+| 877    | [石子游戏](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/StoneGame.md)                                        |  dp                               |middle
 | 1049   | [最后一块石头的重量 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LastStoneWeightII.md)                    |  dp、背包问题                            |middle
 | 1143   | [最长公共子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestCommonSubsequence.md)                  |  二维dp                            |middle
 
