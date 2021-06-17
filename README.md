@@ -230,6 +230,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
 | 13     | [罗马数字转整数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/RomanToInt.md)                     |    模拟                              |easy
+| 65     | [有效数字](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/IsNumber.md)                            |    有限状态机                         |hard
 | 263    | [**实现 strStr()](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/StrStr.md)                       |    KMP算法                           |hard
 | 263    | [丑数(=>264)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/IsUgly.md)                                 |    数学分析                           |easy
 | 633    | [平方数之和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/JudgeSquareSum.md)                    |    数学                              |middle
