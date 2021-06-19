@@ -58,6 +58,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 94     | [二叉树的中序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/InorderTraversal.md)                |   迭代、递归                       |middle
+| 145    | [二叉树的后序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/PostorderTraversal.md)              |   迭代、递归                       |easy
 | 173    | [二叉搜索树迭代器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/BSTIterator.md)                     |   迭代、递归                       |middle
 | 208    | [实现 Trie (前缀树)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/Trie.md)                         |   前缀树、字典树                    |middle
 | 530/783| [二叉搜索树节点最小距离](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/MinDiffInBST.md)               |   中序遍历                         |easy
