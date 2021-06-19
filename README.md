@@ -62,6 +62,7 @@ leetcode's solution in Java.
 | 173    | [二叉搜索树迭代器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/BSTIterator.md)                     |   迭代、递归                       |middle
 | 208    | [实现 Trie (前缀树)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/Trie.md)                         |   前缀树、字典树                    |middle
 | 530/783| [二叉搜索树节点最小距离](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/MinDiffInBST.md)               |   中序遍历                         |easy
+| 559    | [N 叉树的最大深度](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/MaxDepth.md)                        |   递归                            |easy
 | 897    | [递增顺序搜索树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/IncreasingBST.md)                     |   中序遍历                         |easy
 | 938    | [二叉搜索树的范围和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/RangeSumBST.md)                    |   深度优先搜索                     |easy
 
