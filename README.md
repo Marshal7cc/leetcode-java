@@ -237,6 +237,7 @@ leetcode's solution in Java.
 | 263    | [**实现 strStr()](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/StrStr.md)                       |    KMP算法                           |hard
 | 263    | [丑数(=>264)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/IsUgly.md)                                 |    数学分析                           |easy
 | 633    | [平方数之和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/JudgeSquareSum.md)                    |    数学                              |middle
+| 1323   | [ 6 和 9 组成的最大数字](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/Maximum69Number.md)        |    模拟                              |easy
 | 1603   | [设计停车系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ParkingSystem.md)                   |    模拟                               |easy
 
 ### 剑指offer
