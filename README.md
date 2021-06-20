@@ -65,6 +65,7 @@ leetcode's solution in Java.
 | 559    | [N 叉树的最大深度](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/MaxDepth.md)                        |   递归                            |easy
 | 897    | [递增顺序搜索树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/IncreasingBST.md)                     |   中序遍历                         |easy
 | 938    | [二叉搜索树的范围和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/RangeSumBST.md)                    |   深度优先搜索                     |easy
+| 1600   | [皇位继承顺序](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/ThroneInheritance.md)                    |   多叉树前序遍历                   |middle
 
 ### difference-array
 
