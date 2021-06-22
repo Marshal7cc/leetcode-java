@@ -36,6 +36,7 @@ leetcode's solution in Java.
 | 90     | [子集 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/SubsetsWithDup.md)                       |   回溯                               |middle
 | 131    | [分割回文串*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/Partition.md)                         |   回溯、动态规划                     |middle
 | 494    | [目标和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/FindTargetSumWays.md)                      |   回溯                             |middle
+| O38    | [字符串的排列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/backtracking/Permutation.md)                      |   回溯                             |middle
 
 ### binary-search
 
