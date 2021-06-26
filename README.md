@@ -87,13 +87,14 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 995    | [K连续位的最小翻转次数*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/differencearray/MinKBitFlips.md)                   |   差分数组                          |hard
 
-### dfs
+### bfs/dfs
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 341    | [扁平化嵌套列表迭代器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/NestedIterator.md)                     |  dfs、栈                            |middle
 | 386    | [字典序排数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LexicalOrder.md)                                |  dfs                                |middle
 | 690    | [员工的重要性](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/GetImportance.md)                              |  dfs                               |easy
+| 773    | [滑动谜题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/SlidingPuzzle.md)                                 |  bfs                               |hard
 | 872    | [叶子相似的树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LeafSimilar.md)                                |  dfs                               |easy
 
 ### dp
@@ -246,7 +247,7 @@ leetcode's solution in Java.
 | 1323   | [ 6 和 9 组成的最大数字](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/Maximum69Number.md)        |    模拟                              |easy
 | 1603   | [设计停车系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ParkingSystem.md)                   |    模拟                               |easy
 
-### 剑指offer
+### sward-to-offer
 
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
