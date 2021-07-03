@@ -96,6 +96,7 @@ leetcode's solution in Java.
 | 690    | [员工的重要性](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/GetImportance.md)                              |  dfs                               |easy
 | 773    | [滑动谜题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/SlidingPuzzle.md)                                 |  bfs                               |hard
 | 872    | [叶子相似的树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LeafSimilar.md)                                |  dfs                               |easy
+| LCP07  | [传递信息](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/NumWays.md)                                       |  dfs                               |easy
 
 ### dp
 
