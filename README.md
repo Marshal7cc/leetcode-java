@@ -157,6 +157,7 @@ leetcode's solution in Java.
 | 705    | [设计哈希集合](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashSet.md)                            |   哈希、链表                        |easy
 | 706    | [设计哈希映射](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashMap.md)                            |   哈希、链表                        |easy
 | 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
+| 981    | [基于时间的键值存储](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/TimeMap.md)                        |   TreeMap                           |middle
 | 1178   | [猜字谜*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindNumOfValidWords.md)                      |   哈希表、状态压缩、位运算、二进制子集  |hard
 | 1624   | [两个相同字符之间的最长子字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MaxLengthBetweenEqualCharacters.md)                |   哈希表  |easy
 
