@@ -60,6 +60,7 @@ leetcode's solution in Java.
 | 74     | [搜索二维矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/SearchMatrix.md)                      |   二分查找                         |middle
 | 153    | [寻找旋转排序数组中的最小值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FindMin.md)              |   二分查找                         |middle
 | 154    | [寻找旋转排序数组中的最小值 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FindMinTwo.md)        |   二分查找                         |hard
+| 275    | [H 指数 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/HIndex.md)                              |   二分查找                         |middle
 | 278    | [第一个错误的版本](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FirstBadVersion.md)               |   二分查找                         |easy
 | 374    | [猜数字大小](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/GuessNumber.md)                         |   二分查找                         |easy
 | 441    | [排列硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ArrangeCoins.md)                         |   二分查找、等差数列                 |easy
@@ -217,7 +218,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
 | 179    | [最大数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/LargestNumber.md)                                | 排序                                  |middle
-| 274    | [H 指数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/HIndex.md)                                       | 排序                                  |middle
+| 274    | [H 指数(=>275)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/HIndex.md)                                       | 排序                                  |middle
 | 645    | [错误的集合](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/FindErrorNums.md)                                | 排序                                  |easy
 
 ### stack
