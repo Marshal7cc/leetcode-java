@@ -263,6 +263,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
 | 17     | [打印从1到最大的n位数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/offer/PrintNumbers.md)                    |    暴力                              |easy
+| 42     | [连续子数组的最大和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/offer/MaxSubArray.md)                      |    动态规划                           |easy
 
 ### sql(mysql)
 
