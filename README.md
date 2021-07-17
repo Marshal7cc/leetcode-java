@@ -57,6 +57,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 33     | [搜索旋转排序数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/Search.md)                        |   二分查找                         |middle
+| 34     | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/SearchRange.md)  |   二分查找                 |middle
 | 81     | [搜索旋转排序数组 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/Search2.md)                    |   二分查找                         |middle
 | 74     | [搜索二维矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/SearchMatrix.md)                      |   二分查找                         |middle
 | 153    | [寻找旋转排序数组中的最小值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FindMin.md)              |   二分查找                         |middle
