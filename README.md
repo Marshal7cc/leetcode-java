@@ -89,6 +89,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 995    | [K连续位的最小翻转次数*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/differencearray/MinKBitFlips.md)                   |   差分数组                          |hard
+| 1893   | [检查是否区域内所有整数都被覆盖](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/differencearray/IsCovered.md)                   |   差分数组                          |easy
 
 ### bfs/dfs
 
