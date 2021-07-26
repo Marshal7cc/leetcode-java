@@ -224,6 +224,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
 | 179    | [最大数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/LargestNumber.md)                                | 排序                                  |middle
+| 217    | [存在重复元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/ContainsDuplicate.md)                         | 排序                                  |easy
 | 274    | [H 指数(=>275)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/HIndex.md)                                       | 排序                                  |middle
 | 645    | [错误的集合](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/FindErrorNums.md)                                | 排序                                  |easy
 | 1877   | [数组中最大数对和的最小值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/MinPairSum.md)                      | 排序                                  |middle
