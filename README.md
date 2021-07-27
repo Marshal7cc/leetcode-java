@@ -97,6 +97,7 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 341    | [扁平化嵌套列表迭代器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/NestedIterator.md)                     |  dfs、栈                            |middle
 | 386    | [字典序排数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LexicalOrder.md)                                |  dfs                                |middle
+| 671    | [二叉树中第二小的节点](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/FindSecondMinimumValue.md)              |  dfs                                |easy
 | 690    | [员工的重要性](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/GetImportance.md)                              |  dfs                               |easy
 | 773    | [滑动谜题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/SlidingPuzzle.md)                                 |  bfs                               |hard
 | 872    | [叶子相似的树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LeafSimilar.md)                                |  dfs                               |easy
