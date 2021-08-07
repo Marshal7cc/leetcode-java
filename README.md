@@ -93,7 +93,14 @@ leetcode's solution in Java.
 | 995    | [K连续位的最小翻转次数*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/differencearray/MinKBitFlips.md)                   |   差分数组                          |hard
 | 1893   | [检查是否区域内所有整数都被覆盖](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/differencearray/IsCovered.md)                   |   差分数组                          |easy
 
-### bfs/dfs
+### bfs
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 102    | [二叉树的层序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/LevelOrder.md)                                 |  bfs                               |middle
+| 773    | [滑动谜题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/SlidingPuzzle.md)                                 |  bfs                               |hard
+
+### dfs
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
@@ -101,7 +108,6 @@ leetcode's solution in Java.
 | 386    | [字典序排数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LexicalOrder.md)                                |  dfs                                |middle
 | 671    | [二叉树中第二小的节点](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/FindSecondMinimumValue.md)              |  dfs                                |easy
 | 690    | [员工的重要性](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/GetImportance.md)                              |  dfs                               |easy
-| 773    | [滑动谜题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/SlidingPuzzle.md)                                 |  bfs                               |hard
 | 802    | [找到最终的安全状态](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/EventualSafeNodes.md)                     |  dfs                               |middle
 | 863    | [二叉树中所有距离为 K 的结点](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/DistanceK.md)                    |  dfs、哈希表                        |middle
 | 872    | [叶子相似的树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LeafSimilar.md)                                |  dfs                               |easy

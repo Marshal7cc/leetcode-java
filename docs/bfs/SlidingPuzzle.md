@@ -8,5 +8,5 @@
 
 ## 代码
 
-[SlidingPuzzle.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/dfs/SlidingPuzzle.java)
+[SlidingPuzzle.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/bfs/SlidingPuzzle.java)
 
