@@ -129,6 +129,7 @@ leetcode's solution in Java.
 | 198    | [打家劫舍(=>213)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/RobOne.md)                                   |  dp                                |middle
 | 213    | [打家劫舍 II(=>337)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/RobTwo.md)                                |  dp、问题分治                      |middle
 | 264    | [丑数 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NthUglyNumber.md)                                  |  dp、三指针、归并有序数组             |middle
+| 313    | [超级丑数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NthSuperUglyNumber.md)                             |  dp、指针、归并有序数组             |middle
 | 300    | [最长递增子序列@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LengthOfLIS.md)                              |  LIS                               |middle
 | 337    | [打家劫舍 III](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/RobThree.md)                                   |  树状结构dp                         |middle
 | 303    | [区域和检索 - 数组不可变](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumArray.md)                         |  前缀和                             |easy
