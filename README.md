@@ -141,6 +141,7 @@ leetcode's solution in Java.
 | 403    | [青蛙过河[?]](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CanCross.md)                                        |  dp                               |hard
 | 413    | [等差数列划分](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumberOfArithmeticSlices.md)                      |  dp                               |middle
 | 486    | [预测赢家(=>877)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/PredictTheWinner.md)                          |  dp                               |middle
+| 516    | [最长回文子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestPalindromeSubseq.md)                          |  dp                               |middle
 | 877    | [石子游戏](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/StoneGame.md)                                        |  dp                               |middle
 | 1049   | [最后一块石头的重量 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LastStoneWeightII.md)                    |  dp、背包问题                            |middle
 | 1137   | [第 N 个泰波那契数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/Tribonacci.md)                               |  dp                             |easy
