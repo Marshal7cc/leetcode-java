@@ -104,6 +104,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 100    | [相同的树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/IsSameTree.md)                                   |  dfs、bfs                             |easy
 | 341    | [扁平化嵌套列表迭代器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/NestedIterator.md)                     |  dfs、栈                            |middle
 | 386    | [字典序排数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LexicalOrder.md)                                |  dfs                                |middle
 | 671    | [二叉树中第二小的节点](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/FindSecondMinimumValue.md)              |  dfs                                |easy
