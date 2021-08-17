@@ -278,6 +278,7 @@ leetcode's solution in Java.
 | 171    | [Excel表列序号](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/TitleToNumber.md)                 |    进制转换                               |easy
 | 263    | [**实现 strStr()](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/StrStr.md)                       |    KMP算法                           |hard
 | 263    | [丑数(=>264)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/IsUgly.md)                                 |    数学分析                           |easy
+| 551    | [学生出勤记录I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckRecord.md)                     |    遍历                           |easy
 | 633    | [平方数之和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/JudgeSquareSum.md)                    |    数学                              |middle
 | 1104   | [二叉树寻路](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/PathInZigZagTree.md)                    |    数学                              |middle
 | 1232   | [缀点成线](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckStraightLine.md)                  |    线性代数                           |easy
