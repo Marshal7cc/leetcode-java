@@ -174,6 +174,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                         |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                          |   ----                             | ----             |
 | 137    | [只出现一次的数字 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/SingleNumber.md)                    |   哈希表                          |middle
+| 205    | [同构字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/IsIsomorphic.md)                          |   哈希表                          |easy
 | 409    | [最长回文串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestPalindrome.md)                     |   哈希表                          |easy
 | 451    | [根据字符出现频率排序](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FrequencySort.md)                |   哈希表+排序                          |middle
 | 697    | [数组的度](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindShortestSubArray.md)                    |   哈希表、数组                       |easy
