@@ -264,6 +264,12 @@ leetcode's solution in Java.
 | 1006   | [ 笨阶乘](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Clumsy.md)                                     |  栈                                   |middle
 | 1047   | [ 删除字符串中的所有相邻重复项](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/RemoveDuplicates.md)       |   字符串模拟栈                         |easy
 
+### two-pointers
+
+|  #     | title                                                                                                                       |    keyword                           |       Difficulty |
+|  ----  | ----                                                                                                                        |    ----                              | ----             |
+| 881    | [救生艇](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/twopointers/NumRescueBoats.md)                             |  排序+双指针                      |middle
+
 ### [union-find](https://zhuanlan.zhihu.com/p/125604577)
 
 |  #     | title                                                                                                                         |    keyword                          |       Difficulty |
