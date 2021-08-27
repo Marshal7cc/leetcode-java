@@ -210,6 +210,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
 |  ----  | ----                                                                                                                       |  ----                                 | ----             |
+| 295    | [数据流的中位数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/MedianFinder.md)                        |  优先队列                              |hard
 | 703    | [数据流中的第 K 大元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/KthLargest.md)                    |  优先队列                              |easy
 
 ### recursion
