@@ -25,6 +25,7 @@ leetcode's solution in Java.
 | 867    | [转置矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/Transpose.md)                                   |   矩阵遍历、赋值                     |easy
 | 896    | [单调数列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/IsMonotonic.md)                                 |   遍历                              |easy
 | 1128   | [等价多米诺骨牌对的数量](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/NumEquivDominoPairs.md)            |   一次遍历                              |easy
+| 1464   | [数组中两元素的最大乘积](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/MaxProduct.md)                     |   一次遍历                              |easy
 | 1480   | [一维数组的动态和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/RunningSum.md)                           |   遍历、原地修改                     |easy
 | 1744   | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/CanEat.md)        |   前缀和                           |middle
 | 1846   | [减小和重新排列数组后的最大元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/MaximumElementAfterDecrementingAndRearranging.md)      |   遍历   |middle
