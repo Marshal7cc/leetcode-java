@@ -313,6 +313,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
 | 10.02  | [变位词组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/interview/GroupAnagrams.md)                          |    排序、哈希                         |middle
+| 17.14  | [最小K个数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/interview/SmallestK.md)                          |    排序                                  |middle
 
 ### sql(mysql)
 
