@@ -123,6 +123,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 5      | [最长回文子串@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestPalindrome.md)                         |  dp/中心扩散                        |middle
+| O10-I | [斐波那契数列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/Fib.md)                                       |  dp                                   |easy
 | 42     | [接雨水](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/Trap.md)                                            |  dp                                 |hard
 | 53     | [最大子序和(=>152)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MaxSubArray.md)                                  |  dp/分治                             |easy
 | 87     | [<font color="#660000">扰乱字符串?</font><br />](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/IsScramble.md)                                  |  记忆化搜索、dp                       |hard
