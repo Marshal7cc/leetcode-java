@@ -305,6 +305,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
 | 17     | [打印从1到最大的n位数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/offer/PrintNumbers.md)                    |    暴力                              |easy
+| 22     | [链表中倒数第k个节点](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/offer/GetKthFromEnd.md)                    |    链表                              |easy
 | 42     | [连续子数组的最大和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/offer/MaxSubArray.md)                      |    动态规划                           |easy
 | 52     | [两个链表的第一个公共节点](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/offer/GetIntersectionNode.md)          |    哈希表                           |easy
 | 53     | [在排序数组中查找数字I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/offer/Search.md)                       |    二分搜索                           |easy
