@@ -10,6 +10,7 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 26     | [删除有序数组中的重复项](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/RemoveDuplicates.md)               |  双指针                             |easy
 | 54     | [螺旋矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/SpiralOrder.md)                                 |  模拟                              |middle
+| 58     | [最后一个单词的长度](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/LengthOfLastWord.md)                   |  倒序遍历                            |middle
 | 59     | [螺旋矩阵 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/GenerateMatrix.md)                           |  模拟                              |middle
 | 73     | [矩阵置零](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/SetZeroes.md)                                   |  原地修改                          |middle
 | 80     | [删除有序数组中的重复项 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/RemoveDuplicates2.md)            |  双指针                             |middle
