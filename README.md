@@ -203,6 +203,7 @@ leetcode's solution in Java.
 | 203    | [移除链表元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/RemoveElements.md)                    |  迭代、递归                            |easy
 | 160    | [相交链表](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/GetIntersectionNode.md)                    |  哈希表                              |easy
 | 206    | [反转链表@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/ReverseList.md)                         |  迭代、递归                            |easy
+| 725    | [分隔链表](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/SplitListToParts.md)                       |  迭代                               |middle
 
 ### matrix
 
