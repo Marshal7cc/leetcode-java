@@ -188,6 +188,7 @@ leetcode's solution in Java.
 | 706    | [设计哈希映射](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashMap.md)                            |   哈希、链表                        |easy
 | 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
 | 981    | [基于时间的键值存储](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/TimeMap.md)                        |   TreeMap                           |middle
+| 1005   | [K 次取反后最大化的数组和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LargestSumAfterKNegations.md) |   哈希表                            |easy
 | 1178   | [猜字谜*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindNumOfValidWords.md)                      |   哈希表、状态压缩、位运算、二进制子集  |hard
 | 1436   | [旅行终点站](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/destCity.md)                              |   哈希表                               |easy
 | 1624   | [两个相同字符之间的最长子字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MaxLengthBetweenEqualCharacters.md)                |   哈希表  |easy
