@@ -277,6 +277,12 @@ leetcode's solution in Java.
 | 1006   | [ 笨阶乘](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Clumsy.md)                                     |  栈                                   |middle
 | 1047   | [ 删除字符串中的所有相邻重复项](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/RemoveDuplicates.md)       |   字符串模拟栈                         |easy
 
+### string
+
+|  #     | title                                                                                                                       |    keyword                           |       Difficulty |
+|  ----  | ----                                                                                                                        |    ----                              | ----             |
+| 709    | [转换成小写字母](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/string/ToLowerCase.md)                          | 模拟                                  |easy
+
 ### two-pointers
 
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
