@@ -173,6 +173,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 630    | [课程表 III](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/ScheduleCourse.md)                          |   贪心+优先队列                      |hard
 | 781    | [森林中的兔子](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/NumRabbits.md)                              |   贪心                            |middle
 | 1736   | [替换隐藏数字得到的最晚时间](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MaximumTime.md)                |   贪心                            |easy
 | 1833   | [雪糕的最大数量](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MaxIceCream.md)                           |   贪心+排序                        |middle
