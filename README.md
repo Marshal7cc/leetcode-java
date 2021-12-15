@@ -169,6 +169,12 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 456    | [132模式](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/enumeration/Find132pattern.md)                         |   枚举、有序集合                    |middle
 
+### graph
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 851    | [喧闹和富有](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/graph/LoudAndRich.md)                          |   有向无环图+拓扑排序                  |middle
+
 ### greedy
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
