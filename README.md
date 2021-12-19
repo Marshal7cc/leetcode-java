@@ -175,6 +175,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 851    | [喧闹和富有](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/graph/LoudAndRich.md)                          |   有向无环图+拓扑排序                  |middle
+| 997    | [找到小镇的法官](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/graph/FindJudge.md)                          |   出入度判断                        |easy
 
 ### greedy
 
