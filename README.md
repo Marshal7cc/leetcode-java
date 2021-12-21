@@ -321,6 +321,7 @@ leetcode's solution in Java.
 | 551    | [学生出勤记录I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckRecord.md)                     |    遍历                           |easy
 | 633    | [平方数之和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/JudgeSquareSum.md)                    |    数学                              |middle
 | 1104   | [二叉树寻路](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/PathInZigZagTree.md)                    |    数学                              |middle
+| 1154   | [一年中的第几天](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/DayOfYear.md)                    |    模拟                              |easy
 | 1232   | [缀点成线](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckStraightLine.md)                  |    线性代数                           |easy
 | 1323   | [ 6 和 9 组成的最大数字](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/Maximum69Number.md)        |    模拟                              |easy
 | 1408   | [数组中的字符串匹配](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/StringMatching.md)              |    暴力                              |easy
