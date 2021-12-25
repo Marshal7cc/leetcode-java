@@ -106,6 +106,7 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 102    | [二叉树的层序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/LevelOrder.md)                                 |  bfs                               |middle
 | 773    | [滑动谜题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/SlidingPuzzle.md)                                 |  bfs                               |hard
+| 1609   | [奇偶树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/IsEvenOddTree.md)                                 |  bfs                                  |middle
 
 ### dfs
 
