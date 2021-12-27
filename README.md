@@ -301,6 +301,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
+| 825    | [适龄的朋友](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/twopointers/NumFriendRequests.md)                      |  排序+双指针                      |middle
 | 881    | [救生艇](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/twopointers/NumRescueBoats.md)                             |  排序+双指针                      |middle
 
 ### [union-find](https://zhuanlan.zhihu.com/p/125604577)
