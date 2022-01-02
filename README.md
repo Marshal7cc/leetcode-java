@@ -322,6 +322,7 @@ leetcode's solution in Java.
 | 263    | [丑数(=>264)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/IsUgly.md)                                 |    数学分析                           |easy
 | 292    | [Nim 游戏](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CanWinNim.md)                                 |    数学推理                           |easy
 | 326    | [3的幂](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/IsPowerOfThree.md)                                 |    迭代                           |easy
+| 390    | [消除游戏](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/LastRemaining.md)                                 |    等差模拟                           |middle
 | 507    | [完美数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckPerfectNumber.md)                                 |    枚举                           |easy
 | 551    | [学生出勤记录I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckRecord.md)                     |    遍历                           |easy
 | 633    | [平方数之和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/JudgeSquareSum.md)                    |    数学                              |middle
