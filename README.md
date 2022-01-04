@@ -156,6 +156,7 @@ leetcode's solution in Java.
 | 583    | [两个字符串的删除操作](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MinDistance.md)                          |  dp                               |middle
 | 650    | [只有两个键的键盘](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MinSteps.md)                                  |  dp                               |middle
 | 877    | [石子游戏](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/StoneGame.md)                                        |  dp                               |middle
+| 913    | [猫和老鼠[?]](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CatMouseGame.md)                                        |  dp                               |hard
 | 1049   | [最后一块石头的重量 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LastStoneWeightII.md)                    |  dp、背包问题                            |middle
 | 1137   | [第 N 个泰波那契数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/Tribonacci.md)                               |  dp                             |easy
 | 1143   | [最长公共子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestCommonSubsequence.md)                  |  二维dp                            |middle
