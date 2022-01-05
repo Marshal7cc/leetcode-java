@@ -297,6 +297,7 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
 | 709    | [转换成小写字母](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/string/ToLowerCase.md)                          | 模拟                                  |easy
 | 1087   | [Bigram分词](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/string/FindOcurrences.md)                         |  遍历                                  |easy
+| 1576   | [替换所有的问号](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/string/ModifyString.md)                         |  遍历                                  |easy
 
 ### two-pointers
 
