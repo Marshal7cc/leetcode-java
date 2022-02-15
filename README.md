@@ -231,6 +231,7 @@ leetcode's solution in Java.
 | 36     | [有效的数独](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/IsValidSudoku.md)                         |  一次遍历                               |middle
 | 363    | [矩形区域不超过 K 的最大数值和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/MaxSumSubmatrix.md)       |  二维数组前缀和、二分                   |hard
 | 1074   | [元素和为目标值的子矩阵数量](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/NumSubmatrixSumTarget.md)    |  二维数组前缀和                        |hard
+| 1380   | [矩阵中的幸运数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/LuckyNumbers.md)                       |  模拟                                  |easy
 
 ### queue
 
