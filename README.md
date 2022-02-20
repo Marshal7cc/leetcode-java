@@ -23,6 +23,7 @@ leetcode's solution in Java.
 | 561    | [数组拆分 I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/ArrayPairSum.md)                              |   排序、遍历                        |easy
 | 566    | [重塑矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/MatrixReshape.md)                               |   二维数组一维化                     |easy
 | 665    | [非递减数列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/CheckPossibility.md)                          |   遍历                              |easy
+| 711    | [1比特与2比特字符](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/IsOneBitCharacter.md)                     |   遍历                              |easy
 | 766    | [托普利茨矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/IsToeplitzMatrix.md)                        |   矩阵遍历                           |easy
 | 807    | [保持城市天际线](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/MaxIncreaseKeepingSkyline.md)              |   矩阵遍历                           |middle
 | 867    | [转置矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/Transpose.md)                                   |   矩阵遍历、赋值                     |easy
