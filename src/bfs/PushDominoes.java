@@ -23,7 +23,7 @@ public class PushDominoes {
             int[] info = d.pollFirst();
             int loc = info[0], time = info[1], dire = info[2];
             int ne = loc + dire;
-            if (ne < 0 || ne >= n) continue;
+            if (cs[loc] == '.' || (ne < 0 || ne >= n)) continue;
             if (g[ne] == 0) { // 首次受力
                 d.addLast(new int[]{ne, time + 1, dire});
                 g[ne] = time + 1;
