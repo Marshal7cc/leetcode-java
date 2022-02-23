@@ -8,5 +8,5 @@
 
 ## 代码
 
-[NumFriendRequests.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/stack/NumFriendRequests.java)
+[NumFriendRequests.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/twopointers/NumFriendRequests.java)
 

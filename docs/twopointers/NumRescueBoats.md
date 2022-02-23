@@ -8,5 +8,5 @@
 
 ## 代码
 
-[NumRescueBoats.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/stack/NumRescueBoats.java)
+[NumRescueBoats.java](https://github.com/Marshal7cc/leetcode-java/blob/master/src/twopointers/NumRescueBoats.java)
 
