@@ -333,6 +333,7 @@ leetcode's solution in Java.
 | 326    | [3的幂](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/IsPowerOfThree.md)                                 |    迭代                           |easy
 | 390    | [消除游戏](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/LastRemaining.md)                                 |    等差模拟                           |middle
 | 507    | [完美数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckPerfectNumber.md)                                 |    枚举                           |easy
+| 537    | [复数乘法](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ComplexNumberMultiply.md)                                 |    模拟                           |middle
 | 551    | [学生出勤记录I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckRecord.md)                     |    遍历                           |easy
 | 633    | [平方数之和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/JudgeSquareSum.md)                    |    数学                              |middle
 | 1104   | [二叉树寻路](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/PathInZigZagTree.md)                    |    数学                              |middle
