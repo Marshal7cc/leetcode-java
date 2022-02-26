@@ -346,6 +346,7 @@ leetcode's solution in Java.
 | 1603   | [设计停车系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ParkingSystem.md)                   |    模拟                               |easy
 | 1706   | [球会落何处](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/FindBall.md)                   |    模拟                                      |middle
 | 1925   | [统计平方和三元组的数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CountTriples.md)           |    遍历                               |easy
+| 2016   | [增量元素之间的最大差值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/MaximumDifference.md)           |    遍历                       |easy
 | I17.10 | [主要元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/MajorityElement.md)                    |Boyer-Moore 投票算法                    |easy
 | LCP 06 | [拿硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/MinCount.md)                             |遍历                                   |easy
 
