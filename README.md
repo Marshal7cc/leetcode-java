@@ -155,6 +155,7 @@ leetcode's solution in Java.
 | 413    | [等差数列划分](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumberOfArithmeticSlices.md)                      |  dp                               |middle
 | 486    | [预测赢家(=>877)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/PredictTheWinner.md)                          |  dp                               |middle
 | 516    | [最长回文子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestPalindromeSubseq.md)                          |  dp                               |middle
+| 553    | [最优除法](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/OptimalDivision.md)                                    |  dp                               |middle
 | 583    | [两个字符串的删除操作](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MinDistance.md)                          |  dp                               |middle
 | 650    | [只有两个键的键盘](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MinSteps.md)                                  |  dp                               |middle
 | 877    | [石子游戏](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/StoneGame.md)                                        |  dp                               |middle
