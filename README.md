@@ -228,6 +228,12 @@ leetcode's solution in Java.
 | 206    | [反转链表@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/ReverseList.md)                         |  迭代、递归                            |easy
 | 725    | [分隔链表](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/linkedlist/SplitListToParts.md)                       |  迭代                               |middle
 
+### math
+
+|  #     | title                                                                                                                      |    keyword                            |       Difficulty |
+|  ----  | ----                                                                                                                       |  ----                                 | ----             |
+| 258    | [各位相加](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/AddDigits.md)                                  |  数学/递归                             |easy
+
 ### matrix
 
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
