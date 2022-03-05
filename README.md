@@ -18,6 +18,7 @@ leetcode's solution in Java.
 | 419    | [甲板上的战舰](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/CountBattleships.md)                        |  遍历+抽象思维                       |middle
 | 448    | [找到所有数组中消失的数字](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindDisappearedNumbers.md)       |  遍历、原地修改                      |easy
 | 485    | [最大连续1的个数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindMaxConsecutiveOnes.md)               |   遍历                              |easy
+| 521    | [最长特殊序列 Ⅰ](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindLUSlength.md)                       |   脑筋急转弯                             |easy
 | 523    | [连续的子数组和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/CheckSubarraySum.md)                      |   前缀和                              |middle
 | 525    | [连续数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindMaxLength.md)                              |   前缀和                              |middle
 | 561    | [数组拆分 I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/ArrayPairSum.md)                              |   排序、遍历                        |easy
