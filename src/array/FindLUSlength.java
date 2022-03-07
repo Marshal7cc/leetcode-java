@@ -1,3 +1,5 @@
+package array;
+
 /**
  * @author Marshal
  * @since 2022/3/5
