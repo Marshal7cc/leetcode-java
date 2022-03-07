@@ -236,6 +236,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
 |  ----  | ----                                                                                                                       |  ----                                 | ----             |
 | 258    | [各位相加](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/AddDigits.md)                                  |  数学/递归                             |easy
+| 504    | [七进制数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/ConvertToBase7.md)                             |  进制转换                             |easy
 
 ### matrix
 
