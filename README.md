@@ -36,6 +36,7 @@ leetcode's solution in Java.
 | 1744   | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/CanEat.md)        |   前缀和                           |middle
 | 1816   | [截断句子](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/truncateSentence.md)                            |   遍历                           |easy
 | 1846   | [减小和重新排列数组后的最大元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/MaximumElementAfterDecrementingAndRearranging.md)      |   遍历   |middle
+| 2055   | [蜡烛之间的盘子](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/PlatesBetweenCandles.md)                 |   预处理+前缀和    |middle
 | 2104   | [子数组范围和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/SubArrayRanges.md)                            |   遍历   |middle
 
 ### bit-op
