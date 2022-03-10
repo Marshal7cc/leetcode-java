@@ -261,6 +261,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                       |    keyword                           |       Difficulty |
 |  ----  | ----                                                                                                                        |    ----                              | ----             |
 | 119    | [杨辉三角 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/recursion/GetRow.md)                              |    递推                              |easy
+| 589    | [N 叉树的前序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/recursion/Preorder.md)                        |    递推                              |easy
 
 ### slide-window && double-point
 
