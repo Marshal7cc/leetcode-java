@@ -211,6 +211,7 @@ leetcode's solution in Java.
 | 697    | [数组的度](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindShortestSubArray.md)                    |   哈希表、数组                       |easy
 | 705    | [设计哈希集合](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashSet.md)                            |   哈希、链表                        |easy
 | 706    | [设计哈希映射](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashMap.md)                            |   哈希、链表                        |easy
+| 720    | [词典中最长的单词](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestWord.md)                      |   哈希、链表                        |easy
 | 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
 | 981    | [基于时间的键值存储](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/TimeMap.md)                        |   TreeMap                           |middle
 | 1005   | [K 次取反后最大化的数组和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LargestSumAfterKNegations.md) |   哈希表                            |easy
