@@ -278,6 +278,7 @@ leetcode's solution in Java.
 | 480    | [滑动窗口中位数*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MedianSlidingWindow.md)             |  treeSet、优先队列/延迟删除、滑动窗口|hard
 | 567    | [字符串的排列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/CheckInclusion.md)                     | 滑动窗口                           |middle
 | 643    | [子数组最大平均数I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/FindMaxAverage.md)                 |  滑动窗口                         |easy
+| 713    | [乘积小于K的子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/NumSubarrayProductLessThanK.md)   |  滑动窗口                         |middle
 | 832    | [翻转图像](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/FlipAndInvertImage.md)                    |  模拟优化、双指针                    |easy
 | 978    | [最长湍流子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MaxTurbulenceSize.md)                 | 滑动窗口                          |middle
 | 992    | [K个不同整数的子数组*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/SubArraysWithKDistinct.md)      | 问题转换推导、双指针                |hard
