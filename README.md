@@ -314,6 +314,7 @@ leetcode's solution in Java.
 | 331    | [验证二叉树的前序序列化?](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/IsValidSerialization.md)          |  栈                                   |middle
 | 496    | [下一个更大元素 I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElement.md)                 |  单调栈                               |easy
 | 503    | [下一个更大元素 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElements.md)               |  单调栈                               |middle
+| 682    | [棒球比赛](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/CalPoints.md)                                 |  模拟栈                               |easy
 | 1006   | [ 笨阶乘](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Clumsy.md)                                     |  栈                                   |middle
 | 1047   | [ 删除字符串中的所有相邻重复项](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/RemoveDuplicates.md)       |   字符串模拟栈                         |easy
 
