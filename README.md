@@ -109,6 +109,7 @@ leetcode's solution in Java.
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 102    | [二叉树的层序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/LevelOrder.md)                                 |  bfs                               |middle
+| 433    | [最小基因变化](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/MinMutation.md)                                 |  bfs                               |middle
 | 773    | [滑动谜题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/SlidingPuzzle.md)                                 |  bfs                               |hard
 | 838    | [推多米诺](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/PushDominoes.md)                                 |  bfs                               |middle
 | 1609   | [奇偶树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/IsEvenOddTree.md)                                 |  bfs                                  |middle
