@@ -30,6 +30,7 @@ public class MinMutation {
         visited.add(start);
         int step = 1;
         // BFS
+        // 每一个step为1层
         while (!queue.isEmpty()) {
             int sz = queue.size();
             for (int i = 0; i < sz; i++) {
