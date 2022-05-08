@@ -10,6 +10,7 @@ import java.util.List;
 public class FindDuplicates {
     public List<Integer> findDuplicates(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
+            // nums[i]应该被放置在nums[nums[i]-1]
             while (nums[i] != nums[nums[i] - 1]) {
                 swap(nums, i, nums[i] - 1);
             }
