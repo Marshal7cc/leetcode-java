@@ -16,6 +16,7 @@ leetcode's solution in Java.
 | 80     | [删除有序数组中的重复项 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/RemoveDuplicates2.md)            |  双指针                             |middle
 | 88     | [合并两个有序数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/Merge.md)                               |  逆向双指针                          |easy
 | 419    | [甲板上的战舰](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/CountBattleships.md)                        |  遍历+抽象思维                       |middle
+| 442    | [数组中重复的数据](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindDuplicates.md)                       |  遍历+交换                         |middle
 | 448    | [找到所有数组中消失的数字](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindDisappearedNumbers.md)       |  遍历、原地修改                      |easy
 | 485    | [最大连续1的个数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindMaxConsecutiveOnes.md)               |   遍历                              |easy
 | 521    | [最长特殊序列 Ⅰ](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindLUSlength.md)                       |   脑筋急转弯                             |easy
