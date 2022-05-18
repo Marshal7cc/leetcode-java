@@ -13,7 +13,7 @@ leetcode's solution in Java.
 | 58     | [最后一个单词的长度](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/LengthOfLastWord.md)                   |  倒序遍历                            |middle
 | 59     | [螺旋矩阵 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/GenerateMatrix.md)                           |  模拟                              |middle
 | 73     | [矩阵置零](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/SetZeroes.md)                                   |  原地修改                          |middle
-| 80     | [删除有序数组中的重复项 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/RemoveDuplicates2.md)            |  双指针                             |middle
+| 80     | [删除有序数组中的重复项II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/RemoveDuplicates2.md)            |  双指针                             |middle
 | 88     | [合并两个有序数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/Merge.md)                               |  逆向双指针                          |easy
 | 419    | [甲板上的战舰](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/CountBattleships.md)                        |  遍历+抽象思维                       |middle
 | 442    | [数组中重复的数据](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/FindDuplicates.md)                       |  遍历+交换                         |middle
