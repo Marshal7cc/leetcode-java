@@ -304,6 +304,7 @@ leetcode's solution in Java.
 | 179    | [最大数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/LargestNumber.md)                                | 排序                                  |middle
 | 217    | [存在重复元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/ContainsDuplicate.md)                         | 排序                                  |easy
 | 274    | [H 指数(=>275)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/HIndex.md)                                       | 排序                                  |middle
+| 462    | [最少移动次数使数组元素相等 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/MinMoves2.md)                     | 排序                                  |middle
 | 581    | [最短无序连续子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/FindUnsortedSubarray.md)                  | 排序                                  |middle
 | 645    | [错误的集合](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/FindErrorNums.md)                                | 排序                                  |easy
 | 969    | [煎饼排序](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/PancakeSort.md)                                  | 类冒泡排序                                  |middle
