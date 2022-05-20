@@ -78,6 +78,7 @@ leetcode's solution in Java.
 | 275    | [H 指数 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/HIndex.md)                              |   二分查找                         |middle
 | 278    | [第一个错误的版本](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FirstBadVersion.md)               |   二分查找                         |easy
 | 374    | [猜数字大小](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/GuessNumber.md)                         |   二分查找                         |easy
+| 436    | [寻找右区间](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FindRightInterval.md)                  |   二分查找、排序                    |middle
 | 441    | [排列硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ArrangeCoins.md)                         |   二分查找、等差数列                 |easy
 | 475    | [供暖器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FindRadius.md)                           |   二分查找                          |middle
 | 611    | [有效三角形的个数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/TriangleNumber.md)                |   二分查找、排序                    |middle
