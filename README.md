@@ -162,6 +162,7 @@ leetcode's solution in Java.
 | 377    | [组合总和 Ⅳ](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CombinationSum4.md)                              |  dp                               |middle
 | 403    | [青蛙过河[?]](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CanCross.md)                                        |  dp                               |hard
 | 413    | [等差数列划分](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/NumberOfArithmeticSlices.md)                      |  dp                               |middle
+| 467    | [环绕字符串中唯一的子字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/FindSubstringInWraproundString.md)    |  dp                               |middle
 | 486    | [预测赢家(=>877)](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/PredictTheWinner.md)                          |  dp                               |middle
 | 516    | [最长回文子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestPalindromeSubseq.md)                          |  dp                               |middle
 | 553    | [最优除法](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/OptimalDivision.md)                                    |  dp                               |middle
