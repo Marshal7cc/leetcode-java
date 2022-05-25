@@ -132,6 +132,7 @@ leetcode's solution in Java.
 | 802    | [找到最终的安全状态](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/EventualSafeNodes.md)                     |  dfs                               |middle
 | 863    | [二叉树中所有距离为 K 的结点](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/DistanceK.md)                    |  dfs、哈希表                        |middle
 | 872    | [叶子相似的树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LeafSimilar.md)                                |  dfs                               |easy
+| 965    | [单值二叉树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/IsUnivalTree.md)                                 |  dfs                               |easy
 | 987    | [二叉树的垂序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/VerticalTraversal.md)                      |  dfs、sort                         |hard
 | LCP07  | [传递信息](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/NumWays.md)                                       |  dfs                               |easy
 
