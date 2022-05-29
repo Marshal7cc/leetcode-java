@@ -366,6 +366,7 @@ leetcode's solution in Java.
 | 292    | [Nim 游戏](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CanWinNim.md)                                 |    数学推理                           |easy
 | 326    | [3的幂](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/IsPowerOfThree.md)                                 |    迭代                           |easy
 | 390    | [消除游戏](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/LastRemaining.md)                                 |    等差模拟                           |middle
+| 486    | [验证IP地址](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ValidIPAddress.md)                            |    模拟                           |middle
 | 507    | [完美数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckPerfectNumber.md)                                 |    枚举                           |easy
 | 537    | [复数乘法](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ComplexNumberMultiply.md)                                 |    模拟                           |middle
 | 551    | [学生出勤记录I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckRecord.md)                     |    遍历                           |easy
