@@ -135,6 +135,7 @@ leetcode's solution in Java.
 | 872    | [叶子相似的树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/LeafSimilar.md)                                |  dfs                               |easy
 | 965    | [单值二叉树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/IsUnivalTree.md)                                 |  dfs                               |easy
 | 987    | [二叉树的垂序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/VerticalTraversal.md)                      |  dfs、sort                         |hard
+| 1022   | [从根到叶的二进制数之和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/SumRootToLeaf.md)                      |  dfs                             |easy
 | LCP07  | [传递信息](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dfs/NumWays.md)                                       |  dfs                               |easy
 
 ### dp
