@@ -256,6 +256,7 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                       |  ----                                 | ----             |
 | 172    | [阶乘后的零](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/TrailingZeroes.md)                           |  数学                             |middle
 | 258    | [各位相加](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/AddDigits.md)                                  |  数学/递归                             |easy
+| 478    | [在圆内随机生成点](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/RandPoint.md)                          |  拒绝采样                             |middle
 | 504    | [七进制数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/ConvertToBase7.md)                             |  进制转换                             |easy
 
 ### matrix
