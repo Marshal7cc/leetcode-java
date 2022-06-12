@@ -227,6 +227,7 @@ leetcode's solution in Java.
 | 706    | [设计哈希映射](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashMap.md)                            |   哈希、链表                        |easy
 | 720    | [词典中最长的单词](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestWord.md)                      |   哈希、链表                        |easy
 | 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
+| 890    | [查找和替换模式](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindAndReplacePattern.md)               |   哈希表                         |middle
 | 929    | [独特的电子邮件地址](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/NumUniqueEmails.md)                  |   哈希表                          |easy
 | 961    | [在长度 2N 的数组中找出重复 N 次的元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/RepeatedNTimes.md) |   哈希表                            |easy
 | 981    | [基于时间的键值存储](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/TimeMap.md)                        |   TreeMap                           |middle
