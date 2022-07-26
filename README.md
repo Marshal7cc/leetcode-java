@@ -105,6 +105,12 @@ leetcode's solution in Java.
 | 938    | [二叉搜索树的范围和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/RangeSumBST.md)                    |   深度优先搜索                     |easy
 | 1600   | [皇位继承顺序](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarytree/ThroneInheritance.md)                    |   多叉树前序遍历                   |middle
 
+### data-structure
+
+|  #     | title                                                                                                                        |    keyword                         |       Difficulty |
+|  ----  | ----                                                                                                                         |  ----                              | ----             |
+| 1206   | [设计跳表](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/datastructure/Skiplist.md)                            |   跳表                               |hard
+
 ### difference-array
 
 |  #     | title                                                                                                                        |    keyword                         |       Difficulty |
