@@ -384,6 +384,7 @@ leetcode's solution in Java.
 | 507    | [完美数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckPerfectNumber.md)                                 |    枚举                           |easy
 | 537    | [复数乘法](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ComplexNumberMultiply.md)                                 |    模拟                           |middle
 | 551    | [学生出勤记录I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckRecord.md)                     |    遍历                           |easy
+| 592    | [分数加减运算](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/FractionAddition.md)                     |    模拟                           |middle
 | 633    | [平方数之和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/JudgeSquareSum.md)                    |    数学                              |middle
 | 728    | [自除数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/SelfDividingNumbers.md)                    |   模拟                              |easy
 | 829    | [连续整数求和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ConsecutiveNumbersSum.md)              |   数学                              |hard
