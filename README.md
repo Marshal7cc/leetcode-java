@@ -126,6 +126,7 @@ leetcode's solution in Java.
 | 433    | [最小基因变化](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/MinMutation.md)                                 |  bfs                               |middle
 | 773    | [滑动谜题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/SlidingPuzzle.md)                                 |  bfs                               |hard
 | 838    | [推多米诺](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/PushDominoes.md)                                 |  bfs                               |middle
+| 1161   | [最大层内元素和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/MaxLevelSum.md)                                 |  bfs                               |middle
 | 1609   | [奇偶树](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/IsEvenOddTree.md)                                 |  bfs                                  |middle
 
 ### dfs
