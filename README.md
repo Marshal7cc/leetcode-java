@@ -396,6 +396,7 @@ leetcode's solution in Java.
 | 1185   | [一周中的第几天](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/DayOfTheWeek.md)                    |    模拟                              |easy
 | 1232   | [缀点成线](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CheckStraightLine.md)                  |    线性代数                           |easy
 | 1323   | [ 6 和 9 组成的最大数字](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/Maximum69Number.md)        |    模拟                              |easy
+| 1374   | [生成每种字符都是奇数个的字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/GenerateTheString.md)  |    模拟                              |easy
 | 1408   | [数组中的字符串匹配](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/StringMatching.md)              |    暴力                              |easy
 | 1518   | [换酒问题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/NumWaterBottles.md)                   |    模拟                              |easy
 | 1603   | [设计停车系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ParkingSystem.md)                   |    模拟                               |easy
