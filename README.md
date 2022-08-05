@@ -124,6 +124,7 @@ leetcode's solution in Java.
 |  ----  | ----                                                                                                                         |  ----                              | ----             |
 | 102    | [二叉树的层序遍历](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/LevelOrder.md)                                 |  bfs                               |middle
 | 433    | [最小基因变化](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/MinMutation.md)                                 |  bfs                               |middle
+| 623    | [在二叉树中增加一行](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/AddOneRow.md)                                 |  bfs                               |middle
 | 773    | [滑动谜题](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/SlidingPuzzle.md)                                 |  bfs                               |hard
 | 838    | [推多米诺](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/PushDominoes.md)                                 |  bfs                               |middle
 | 1161   | [最大层内元素和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bfs/MaxLevelSum.md)                                 |  bfs                               |middle
