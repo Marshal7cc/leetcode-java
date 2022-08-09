@@ -217,6 +217,7 @@ leetcode's solution in Java.
 | 781    | [森林中的兔子](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/NumRabbits.md)                              |   贪心                            |middle
 | 942    | [增减字符串匹配](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/DiStringMatch.md)                         |   贪心                            |easy
 | 1403   | [非递增顺序的最小子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MinSubsequence.md)                  |   贪心                            |easy
+| 1413   | [逐步求和得到正数的最小值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MinStartValue.md)                  |   贪心                            |easy
 | 1705   | [吃苹果的最大数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/EatenApples.md)                        |   贪心+优先队列                     |middle
 | 1736   | [替换隐藏数字得到的最晚时间](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MaximumTime.md)                |   贪心                            |easy
 | 1833   | [雪糕的最大数量](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MaxIceCream.md)                           |   贪心+排序                        |middle
