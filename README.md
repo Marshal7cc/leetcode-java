@@ -367,6 +367,7 @@ leetcode's solution in Java.
 | 881    | [救生艇](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/twopointers/NumRescueBoats.md)                             |  排序+双指针                      |middle
 | 917    | [仅仅反转字母](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/twopointers/ReverseOnlyLetters.md)                   |  双指针                           |easy
 | 1662   | [检查两个字符串数组是否相等](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/twopointers/ArrayStringsAreEqual.md)     |  双指针                           |easy
+| 1813   | [句子相似性 III](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/twopointers/AreSentencesSimilar.md)                 |  双指针                           |middle
 
 ### [union-find](https://zhuanlan.zhihu.com/p/125604577)
 
