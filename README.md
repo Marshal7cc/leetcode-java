@@ -250,6 +250,7 @@ leetcode's solution in Java.
 | 1604   | [警告一小时内使用相同员工卡大于等于三次的人](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/AlertNames.md)    |   哈希表                               |middle
 | 1624   | [两个相同字符之间的最长子字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MaxLengthBetweenEqualCharacters.md)                |   哈希表  |easy
 | 1743   | [从相邻元素对还原数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/RestoreArray.md)                |   哈希表                  |middle
+| 1797   | [设计一个验证系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/AuthenticationManager.md)                |   哈希表                  |middle
 | 1814   | [统计一个数组中好对子的数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/CountNicePairs.md)           |   哈希表                  |middle
 | 2325   | [解密消息](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/DecodeMessage.md)                          |   哈希表                  |easy
 
