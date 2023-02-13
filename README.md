@@ -326,6 +326,7 @@ leetcode's solution in Java.
 | 1004   | [最大连续1的个数 III](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/LongestOnes.md)                  | 区间内0、1个数统计转换、双指针      |middle
 | 1052   | [爱生气的书店老板](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MaxSatisfied.md)                    | 滑动窗口                           |middle
 | 1208   | [尽可能使字符串相等](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/EqualSubstring.md)                | 双指针                            |middle
+| 1234   | [替换子串得到平衡字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/BalancedString.md)                | 滑动窗口                        |middle
 | 1423   | [可获得的最大点数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MaxScore.md)                       |  滑动窗口                          |middle
 | 1438   | [绝对差不超过限制的最长连续子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/LongestSubarray.md)  |  滑动窗口、优先队列、TreeMap        |middle
 | 1838   | [最高频元素的频数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MaxFrequency.md)                   |  滑动窗口、排序                     |middle
