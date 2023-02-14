@@ -245,6 +245,7 @@ leetcode's solution in Java.
 | 961    | [在长度 2N 的数组中找出重复 N 次的元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/RepeatedNTimes.md) |   哈希表                            |easy
 | 981    | [基于时间的键值存储](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/TimeMap.md)                        |   TreeMap                           |middle
 | 1005   | [K 次取反后最大化的数组和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LargestSumAfterKNegations.md) |   哈希表                            |easy
+| 1124   | [表现良好的最长时间段](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestWPI.md)                   |   哈希表+前缀和                     |middle
 | 1178   | [猜字谜*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindNumOfValidWords.md)                      |   哈希表、状态压缩、位运算、二进制子集  |hard
 | 1331   | [数组序号转换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/ArrayRankTransform.md)                      |   哈希表+排序  |easy
 | 1436   | [旅行终点站](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/destCity.md)                              |   哈希表                               |easy
