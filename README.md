@@ -280,6 +280,7 @@ leetcode's solution in Java.
 | 504    | [七进制数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/ConvertToBase7.md)                             |  进制转换                             |easy
 | 593    | [有效的正方形](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/ValidSquare.md)                             |  数学                             |middle
 | 1037   | [有效的回旋镖](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/IsBoomerang.md)                             |  向量                                |easy
+| 1250   | [检查「好数组」](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/IsGoodArray.md)                             |  裴蜀定理                               |hard
 
 ### matrix
 
