@@ -255,6 +255,7 @@ leetcode's solution in Java.
 | 1797   | [设计一个验证系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/AuthenticationManager.md)                |   哈希表                  |middle
 | 1814   | [统计一个数组中好对子的数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/CountNicePairs.md)           |   哈希表                  |middle
 | 2325   | [解密消息](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/DecodeMessage.md)                          |   哈希表                  |easy
+| 2341   | [数组能形成多少数对](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/NumberOfPairs.md)                    |   哈希表   |easy
 
 ### linked-list
 
