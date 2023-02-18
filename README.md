@@ -87,6 +87,7 @@ leetcode's solution in Java.
 | 704    | [二分查找](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/Original.md)                             |   二分查找                          |easy
 | 852    | [山脉数组的峰顶索引](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/PeakIndexInMountainArray/Original.md)         |   二分查找                          |easy
 | 1011   | [在 D 天内送达包裹的能力](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/ShipWithinDays.md)          |   二分查找                          |middle
+| 1237   | [找出给定方程的正整数解](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/FindSolution.md)          |   二分查找                          |middle
 | 1337   | [矩阵中战斗力最弱的 K 行](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/binarysearch/KWeakestRows.md)          |   二分查找、sort                       |easy
 
 ### binary-tree
