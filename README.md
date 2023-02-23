@@ -47,6 +47,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                         |    keyword                         |       Difficulty |
 |  ----  | ----                                                                                                                          |   ----                             | ----             |
+| 89     | [格雷编码](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/GrayCode.md)                                 |   位运算、格雷码                      |middle
 | 190    | [颠倒二进制位](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/ReverseBits.md)                          |   位运算、迭代                      |easy
 | 191    | [位1的个数@](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/HammingWeight.md)                          |   位运算、迭代                      |easy
 | 231    | [2 的幂](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/IsPowerOfTwo.md)                              |   位运算、迭代                      |easy
