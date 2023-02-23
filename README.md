@@ -54,6 +54,7 @@ leetcode's solution in Java.
 | 401    | [二进制手表](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/ReadBinaryWatch.md)                        |   位运算                           |easy
 | 461    | [汉明距离](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/HammingDistance.md)                          |   位运算、迭代                      |easy
 | 477    | [汉明距离总和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/TotalHammingDistance.md)                 |   位运算、迭代                      |middle
+| 1238   | [循环码排列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/CircularPermutation.md)                   |   位运算、格雷码                      |middle
 | 1342   | [将数字变成 0 的操作次数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/bitop/NumberOfSteps.md)              |   位运算、迭代/递归                  |easy
 
 ### backtracking
