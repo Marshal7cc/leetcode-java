@@ -238,6 +238,7 @@ leetcode's solution in Java.
 | 137    | [只出现一次的数字 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/SingleNumber.md)                    |   哈希表                          |middle
 | 205    | [同构字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/IsIsomorphic.md)                          |   哈希表                          |easy
 | 383    | [赎金信](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/CanConstruct.md)                               |   哈希表 (数组)                   |easy
+| 387    | [字符串中的第一个唯一字符](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FirstUniqChar.md)              |   哈希表                  |easy
 | 409    | [最长回文串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestPalindrome.md)                     |   哈希表                          |easy
 | 451    | [根据字符出现频率排序](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FrequencySort.md)                |   哈希表+排序                          |middle
 | 599    | [两个列表的最小索引总和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindRestaurant.md)                |   哈希表                        |easy
