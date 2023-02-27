@@ -223,6 +223,7 @@ leetcode's solution in Java.
 | 630    | [课程表 III](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/ScheduleCourse.md)                          |   贪心+优先队列                      |hard
 | 781    | [森林中的兔子](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/NumRabbits.md)                              |   贪心                            |middle
 | 942    | [增减字符串匹配](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/DiStringMatch.md)                         |   贪心                            |easy
+| 1144   | [递减元素使数组呈锯齿状](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MovesToMakeZigzag.md)                |   贪心                            |middle
 | 1247   | [交换字符使得字符串相同](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MinimumSwap.md)                         |   贪心                            |middle
 | 1403   | [非递增顺序的最小子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MinSubsequence.md)                  |   贪心                            |easy
 | 1413   | [逐步求和得到正数的最小值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/greedy/MinStartValue.md)                  |   贪心                            |easy
