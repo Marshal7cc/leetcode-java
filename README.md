@@ -305,6 +305,7 @@ leetcode's solution in Java.
 | 1138   | [字母板上的路径](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/AlphabetBoardPath.md)                   |  模拟                                  |middle
 | 1380   | [矩阵中的幸运数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/LuckyNumbers.md)                       |  模拟                                  |easy
 | 2319   | [判断矩阵是否是一个 X 矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/CheckXMatrix.md)                       |  模拟                                  |easy
+| 2373   | [矩阵中的局部最大值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/LargestLocal.md)                       |  遍历                                 |easy
 
 ### queue
 
