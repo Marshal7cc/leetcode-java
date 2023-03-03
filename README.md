@@ -258,6 +258,7 @@ leetcode's solution in Java.
 | 1178   | [猜字谜*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindNumOfValidWords.md)                      |   哈希表、状态压缩、位运算、二进制子集  |hard
 | 1331   | [数组序号转换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/ArrayRankTransform.md)                      |   哈希表+排序  |easy
 | 1436   | [旅行终点站](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/destCity.md)                              |   哈希表                               |easy
+| 1487   | [保证文件名唯一](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/GetFolderNames.md)                     |   哈希表                               |middle
 | 1604   | [警告一小时内使用相同员工卡大于等于三次的人](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/AlertNames.md)    |   哈希表                               |middle
 | 1624   | [两个相同字符之间的最长子字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MaxLengthBetweenEqualCharacters.md)                |   哈希表  |easy
 | 1743   | [从相邻元素对还原数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/RestoreArray.md)                |   哈希表                  |middle
