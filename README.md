@@ -197,6 +197,7 @@ leetcode's solution in Java.
 | 1326   | [灌溉花园的最少水龙头数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MinTaps.md)                  |  dp                            |hard
 | 1728   | [猫和老鼠 II[?]](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CanMouseWin.md)                               |  拓扑排序                             |hard
 | 2100   | [适合打劫银行的日子](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/GoodDaysToRobBank.md)                    |  dp                            |middle
+| O47    | [礼物的最大价值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MaxValue.md)                               |  dp                            |middle
 
 ### divide-and-conquer
 
