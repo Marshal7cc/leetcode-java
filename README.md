@@ -350,6 +350,7 @@ leetcode's solution in Java.
 | 1423   | [可获得的最大点数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MaxScore.md)                       |  滑动窗口                          |middle
 | 1438   | [绝对差不超过限制的最长连续子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/LongestSubarray.md)  |  滑动窗口、优先队列、TreeMap        |middle
 | 1838   | [最高频元素的频数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MaxFrequency.md)                   |  滑动窗口、排序                     |middle
+| 2379   | [得到K个黑块的最少涂色次数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/slidewindow/MinimumRecolors.md)           |  滑动窗口                     |easy
 
 ### sort
 
