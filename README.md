@@ -444,6 +444,7 @@ leetcode's solution in Java.
 | 1925   | [统计平方和三元组的数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/CountTriples.md)           |    遍历                               |easy
 | 2016   | [增量元素之间的最大差值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/MaximumDifference.md)           |    遍历                       |easy
 | 2043   | [简易银行系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/Bank.md)                              |    模拟                       |middle
+| 2383   | [赢得比赛需要的最少训练时长](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/MinNumberOfHours.md)     |    模拟                       |easy
 | I17.10 | [主要元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/MajorityElement.md)                    |Boyer-Moore 投票算法                    |easy
 | LCP 06 | [拿硬币](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/MinCount.md)                             |遍历                                   |easy
 
