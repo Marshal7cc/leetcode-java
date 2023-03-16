@@ -315,6 +315,12 @@ leetcode's solution in Java.
 | 2319   | [判断矩阵是否是一个 X 矩阵](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/CheckXMatrix.md)                       |  模拟                                  |easy
 | 2373   | [矩阵中的局部最大值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/matrix/LargestLocal.md)                       |  遍历                                 |easy
 
+### prefix sum
+
+|  #     | title                                                                                                                      |    keyword                            |       Difficulty |
+|  ----  | ----                                                                                                                       |  ----                                 | ----             |
+| 2488   | [统计中位数为 K 的子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/prefixsum/CountSubarrays.md)          |  前缀和                              |hard
+
 ### queue
 
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
