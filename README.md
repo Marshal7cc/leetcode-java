@@ -319,6 +319,7 @@ leetcode's solution in Java.
 
 |  #     | title                                                                                                                      |    keyword                            |       Difficulty |
 |  ----  | ----                                                                                                                       |  ----                                 | ----             |
+| 2389   | [和有限的最长子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/prefixsum/AnswerQueries.md)              |  前缀和+二分                              |easy
 | 2488   | [统计中位数为 K 的子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/prefixsum/CountSubarrays.md)          |  前缀和                              |hard
 
 ### queue
