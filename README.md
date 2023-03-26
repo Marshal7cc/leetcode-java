@@ -276,6 +276,7 @@ leetcode's solution in Java.
 | 2347   | [最好的扑克手牌](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/BestHand.md)                          |   哈希表   |easy
 | 2357   | [使数组中所有元素都等于零](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MinimumOperations.md)            |   哈希表   |easy
 | 2363   | [合并相似的物品](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MergeSimilarItems.md)            |   哈希表   |easy
+| 2395   | [和相等的子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindSubarrays.md)            |   哈希表   |easy
 
 ### linked-list
 
