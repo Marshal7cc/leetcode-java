@@ -198,6 +198,7 @@ leetcode's solution in Java.
 | 1143   | [最长公共子序列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/LongestCommonSubsequence.md)                  |  二维dp                            |middle
 | 1326   | [灌溉花园的最少水龙头数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MinTaps.md)                  |  dp                            |hard
 | 1626   | [无矛盾的最佳球队](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/BestTeamScore.md)                  |  dp                            |middle
+| 1641   | [统计字典序元音字符串的数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CountVowelStrings.md)                  |  dp                            |middle
 | 1728   | [猫和老鼠 II[?]](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/CanMouseWin.md)                               |  拓扑排序                             |hard
 | 2100   | [适合打劫银行的日子](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/GoodDaysToRobBank.md)                    |  dp                            |middle
 | O47    | [礼物的最大价值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/dp/MaxValue.md)                               |  dp                            |middle
