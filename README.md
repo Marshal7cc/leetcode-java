@@ -380,6 +380,7 @@ leetcode's solution in Java.
 | 969    | [煎饼排序](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/PancakeSort.md)                                  | 类冒泡排序                                  |middle
 | 1200   | [最小绝对差](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/MinimumAbsDifference.md)                         | 排序                                  |easy
 | 1233   | [删除子文件夹](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/RemoveSubfolders.md)                         | 排序                                  |middle
+| 1637   | [两点之间不包含任何点的最宽垂直区域](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/MaxWidthOfVerticalArea.md)    | 排序                                  |middle
 | 1877   | [数组中最大数对和的最小值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/sort/MinPairSum.md)                      | 排序                                  |middle
 
 ### stack
