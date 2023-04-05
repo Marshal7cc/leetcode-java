@@ -305,6 +305,7 @@ leetcode's solution in Java.
 | 593    | [有效的正方形](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/ValidSquare.md)                             |  数学                             |middle
 | 1037   | [有效的回旋镖](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/IsBoomerang.md)                             |  向量                                |easy
 | 1250   | [检查「好数组」](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/IsGoodArray.md)                             |  裴蜀定理                               |hard
+| 2427   | [公因子的数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/math/CommonFactors.md)                             |  公约数                              |easy
 
 ### matrix
 
