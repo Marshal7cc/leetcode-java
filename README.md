@@ -33,6 +33,7 @@ leetcode's solution in Java.
 | 944    | [删列造序](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/MinDeletionSize.md)                             |   遍历                              |easy
 | 953    | [验证外星语词典](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/IsAlienSorted.md)                         |   遍历                               |easy
 | 1128   | [等价多米诺骨牌对的数量](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/NumEquivDominoPairs.md)            |   一次遍历                              |easy
+| 1172   | [餐盘栈](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/DinnerPlates.md)                                  |   数组 + 有序集合模拟                |hard
 | 1464   | [数组中两元素的最大乘积](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/MaxProduct.md)                     |   一次遍历                              |easy
 | 1480   | [一维数组的动态和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/RunningSum.md)                           |   遍历、原地修改                     |easy
 | 1588   | [所有奇数长度子数组的和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/array/SumOddLengthSubarrays.md)           |   遍历                            |middle
