@@ -454,6 +454,7 @@ leetcode's solution in Java.
 | 633    | [平方数之和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/JudgeSquareSum.md)                    |    数学                              |middle
 | 728    | [自除数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/SelfDividingNumbers.md)                    |   模拟                              |easy
 | 829    | [连续整数求和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/ConsecutiveNumbersSum.md)              |   数学                              |hard
+| 970    | [强整数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/PowerfulIntegers.md)                      |   枚举                              |middle
 | 1041   | [困于环中的机器人](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/IsRobotBounded.md)              |   模拟                              |middle
 | 1104   | [二叉树寻路](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/PathInZigZagTree.md)                    |    数学                              |middle
 | 1154   | [一年中的第几天](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/unclassified/DayOfYear.md)                    |    模拟                              |easy
