@@ -396,19 +396,20 @@ leetcode's solution in Java.
 
 ### stack
 
-|  #     | title                                                                                                                       |    keyword                           |       Difficulty |
-|  ----  | ----                                                                                                                        |    ----                              | ----             |
-| 71     | [简化路径](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/SimplifyPath.md)                             |  栈                                  |middle
-| 150    | [逆波兰表达式求值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/EvalRPN.md)                             |  栈                                  |middle
-| 224    | [基本计算器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Calculate.md)                                |  栈                                  |hard
-| 227    | [基本计算器 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Calculate2.md)                            |  栈                                  |middle
-| 232    | [用栈实现队列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/MyQueue.md)                                |  栈、队列                              |easy
-| 331    | [验证二叉树的前序序列化?](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/IsValidSerialization.md)          |  栈                                   |middle
-| 496    | [下一个更大元素 I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElement.md)                 |  单调栈                               |easy
-| 503    | [下一个更大元素 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElements.md)               |  单调栈                               |middle
-| 682    | [棒球比赛](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/CalPoints.md)                                 |  模拟栈                               |easy
-| 1006   | [ 笨阶乘](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Clumsy.md)                                     |  栈                                   |middle
-| 1047   | [ 删除字符串中的所有相邻重复项](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/RemoveDuplicates.md)       |   字符串模拟栈                         |easy
+| #    | title                                                                                                      | keyword | Difficulty |
+|------|------------------------------------------------------------------------------------------------------------|---------|------------|
+| 71   | [简化路径](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/SimplifyPath.md)                 | 栈       | middle     
+| 150  | [逆波兰表达式求值](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/EvalRPN.md)                  | 栈       | middle     
+| 224  | [基本计算器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Calculate.md)                   | 栈       | hard       
+| 227  | [基本计算器 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Calculate2.md)               | 栈       | middle     
+| 232  | [用栈实现队列](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/MyQueue.md)                    | 栈、队列    | easy       
+| 331  | [验证二叉树的前序序列化?](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/IsValidSerialization.md) | 栈       | middle     
+| 496  | [下一个更大元素 I](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElement.md)      | 单调栈     | easy       
+| 503  | [下一个更大元素 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/NextGreaterElements.md)    | 单调栈     | middle     
+| 682  | [棒球比赛](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/CalPoints.md)                    | 模拟栈     | easy       
+| 1006 | [ 笨阶乘](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/Clumsy.md)                       | 栈       | middle     
+| 1047 | [ 删除字符串中的所有相邻重复项](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/RemoveDuplicates.md)  | 字符串模拟栈  | easy       
+| 2197 | [ 替换数组中的非互质数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/stack/ReplaceNonCoprimes.md)    | 栈       | hard       
 
 ### string
 
