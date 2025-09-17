@@ -335,12 +335,13 @@ leetcode's solution in Java.
 
 ### queue
 
-|  #     | title                                                                                                                      |    keyword                            |       Difficulty |
-|  ----  | ----                                                                                                                       |  ----                                 | ----             |
-| 295    | [数据流的中位数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/MedianFinder.md)                        |  优先队列                              |hard
-| 703    | [数据流中的第 K 大元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/KthLargest.md)                    |  优先队列                              |easy
-| 933    | [最近的请求次数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/RecentCounter.md)                       |  队列                              |easy
-| 1792   | [最大平均通过率](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/MaxAverageRatio.md)                       |  优先队列                              |middle
+| #    | title                                                                                              | keyword   | Difficulty |
+|------|----------------------------------------------------------------------------------------------------|-----------|------------|
+| 295  | [数据流的中位数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/MedianFinder.md)      | 优先队列      | hard       
+| 703  | [数据流中的第 K 大元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/KthLargest.md)   | 优先队列      | easy       
+| 933  | [最近的请求次数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/RecentCounter.md)     | 队列        | easy       
+| 1792 | [最大平均通过率](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/MaxAverageRatio.md)   | 优先队列      | middle     
+| 2349 | [设计数字容器系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/NumberContainers.md) | 优先队列+惰性删除 | middle     
 
 ### recursion
 
