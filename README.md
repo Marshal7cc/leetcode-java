@@ -342,6 +342,7 @@ leetcode's solution in Java.
 | 933  | [最近的请求次数](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/RecentCounter.md)     | 队列        | easy       
 | 1792 | [最大平均通过率](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/MaxAverageRatio.md)   | 优先队列      | middle     
 | 2349 | [设计数字容器系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/NumberContainers.md) | 优先队列+惰性删除 | middle     
+| 3408 | [设计任务管理器](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/queue/TaskManager.md)       | 优先队列+惰性删除 | middle     
 
 ### recursion
 
