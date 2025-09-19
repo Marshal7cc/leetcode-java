@@ -249,41 +249,42 @@ leetcode's solution in Java.
 
 ### hash-table
 
-|  #     | title                                                                                                                         |    keyword                         |       Difficulty |
-|  ----  | ----                                                                                                                          |   ----                             | ----             |
-| 137    | [只出现一次的数字 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/SingleNumber.md)                    |   哈希表                          |middle
-| 205    | [同构字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/IsIsomorphic.md)                          |   哈希表                          |easy
-| 383    | [赎金信](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/CanConstruct.md)                               |   哈希表 (数组)                   |easy
-| 387    | [字符串中的第一个唯一字符](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FirstUniqChar.md)              |   哈希表                  |easy
-| 409    | [最长回文串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestPalindrome.md)                     |   哈希表                          |easy
-| 451    | [根据字符出现频率排序](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FrequencySort.md)                |   哈希表+排序                          |middle
-| 599    | [两个列表的最小索引总和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindRestaurant.md)                |   哈希表                        |easy
-| 697    | [数组的度](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindShortestSubArray.md)                    |   哈希表、数组                       |easy
-| 705    | [设计哈希集合](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashSet.md)                            |   哈希、链表                        |easy
-| 706    | [设计哈希映射](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashMap.md)                            |   哈希、链表                        |easy
-| 720    | [词典中最长的单词](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestWord.md)                      |   哈希、链表                        |easy
-| 888    | [公平的糖果棒交换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FairCandySwap.md)                    |   哈希表、推导                       |easy
-| 890    | [查找和替换模式](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindAndReplacePattern.md)               |   哈希表                         |middle
-| 929    | [独特的电子邮件地址](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/NumUniqueEmails.md)                  |   哈希表                          |easy
-| 961    | [在长度 2N 的数组中找出重复 N 次的元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/RepeatedNTimes.md) |   哈希表                            |easy
-| 981    | [基于时间的键值存储](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/TimeMap.md)                        |   TreeMap                           |middle
-| 1005   | [K 次取反后最大化的数组和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LargestSumAfterKNegations.md) |   哈希表                            |easy
-| 1124   | [表现良好的最长时间段](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestWPI.md)                   |   哈希表+前缀和                     |middle
-| 1178   | [猜字谜*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindNumOfValidWords.md)                      |   哈希表、状态压缩、位运算、二进制子集  |hard
-| 1331   | [数组序号转换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/ArrayRankTransform.md)                      |   哈希表+排序  |easy
-| 1436   | [旅行终点站](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/destCity.md)                              |   哈希表                               |easy
-| 1487   | [保证文件名唯一](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/GetFolderNames.md)                     |   哈希表                               |middle
-| 1604   | [警告一小时内使用相同员工卡大于等于三次的人](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/AlertNames.md)    |   哈希表                               |middle
-| 1624   | [两个相同字符之间的最长子字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MaxLengthBetweenEqualCharacters.md)                |   哈希表  |easy
-| 1743   | [从相邻元素对还原数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/RestoreArray.md)                |   哈希表                  |middle
-| 1797   | [设计一个验证系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/AuthenticationManager.md)                |   哈希表                  |middle
-| 1814   | [统计一个数组中好对子的数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/CountNicePairs.md)           |   哈希表                  |middle
-| 2325   | [解密消息](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/DecodeMessage.md)                          |   哈希表                  |easy
-| 2341   | [数组能形成多少数对](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/NumberOfPairs.md)                    |   哈希表   |easy
-| 2347   | [最好的扑克手牌](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/BestHand.md)                          |   哈希表   |easy
-| 2357   | [使数组中所有元素都等于零](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MinimumOperations.md)            |   哈希表   |easy
-| 2363   | [合并相似的物品](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MergeSimilarItems.md)            |   哈希表   |easy
-| 2395   | [和相等的子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindSubarrays.md)            |   哈希表   |easy
+| #    | title                                                                                                                        | keyword            | Difficulty |
+|------|------------------------------------------------------------------------------------------------------------------------------|--------------------|------------|
+| 137  | [只出现一次的数字 II](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/SingleNumber.md)                        | 哈希表                | middle     
+| 205  | [同构字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/IsIsomorphic.md)                              | 哈希表                | easy       
+| 383  | [赎金信](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/CanConstruct.md)                                | 哈希表 (数组)           | easy       
+| 387  | [字符串中的第一个唯一字符](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FirstUniqChar.md)                      | 哈希表                | easy       
+| 409  | [最长回文串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestPalindrome.md)                         | 哈希表                | easy       
+| 451  | [根据字符出现频率排序](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FrequencySort.md)                        | 哈希表+排序             | middle     
+| 599  | [两个列表的最小索引总和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindRestaurant.md)                      | 哈希表                | easy       
+| 697  | [数组的度](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindShortestSubArray.md)                       | 哈希表、数组             | easy       
+| 705  | [设计哈希集合](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashSet.md)                                | 哈希、链表              | easy       
+| 706  | [设计哈希映射](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MyHashMap.md)                                | 哈希、链表              | easy       
+| 720  | [词典中最长的单词](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestWord.md)                            | 哈希、链表              | easy       
+| 888  | [公平的糖果棒交换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FairCandySwap.md)                          | 哈希表、推导             | easy       
+| 890  | [查找和替换模式](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindAndReplacePattern.md)                   | 哈希表                | middle     
+| 929  | [独特的电子邮件地址](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/NumUniqueEmails.md)                       | 哈希表                | easy       
+| 961  | [在长度 2N 的数组中找出重复 N 次的元素](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/RepeatedNTimes.md)           | 哈希表                | easy       
+| 981  | [基于时间的键值存储](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/TimeMap.md)                               | TreeMap            | middle     
+| 1005 | [K 次取反后最大化的数组和](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LargestSumAfterKNegations.md)         | 哈希表                | easy       
+| 1124 | [表现良好的最长时间段](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/LongestWPI.md)                           | 哈希表+前缀和            | middle     
+| 1178 | [猜字谜*](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindNumOfValidWords.md)                        | 哈希表、状态压缩、位运算、二进制子集 | hard       
+| 1331 | [数组序号转换](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/ArrayRankTransform.md)                       | 哈希表+排序             | easy       
+| 1436 | [旅行终点站](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/destCity.md)                                  | 哈希表                | easy       
+| 1487 | [保证文件名唯一](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/GetFolderNames.md)                          | 哈希表                | middle     
+| 1604 | [警告一小时内使用相同员工卡大于等于三次的人](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/AlertNames.md)                | 哈希表                | middle     
+| 1624 | [两个相同字符之间的最长子字符串](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MaxLengthBetweenEqualCharacters.md) | 哈希表                | easy       
+| 1743 | [从相邻元素对还原数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/RestoreArray.md)                         | 哈希表                | middle     
+| 1797 | [设计一个验证系统](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/AuthenticationManager.md)                  | 哈希表                | middle     
+| 1814 | [统计一个数组中好对子的数目](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/CountNicePairs.md)                    | 哈希表                | middle     
+| 2325 | [解密消息](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/DecodeMessage.md)                              | 哈希表                | easy       
+| 2341 | [数组能形成多少数对](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/NumberOfPairs.md)                         | 哈希表                | easy       
+| 2347 | [最好的扑克手牌](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/BestHand.md)                                | 哈希表                | easy       
+| 2357 | [使数组中所有元素都等于零](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MinimumOperations.md)                  | 哈希表                | easy       
+| 2363 | [合并相似的物品](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/MergeSimilarItems.md)                       | 哈希表                | easy       
+| 2395 | [和相等的子数组](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/FindSubarrays.md)                           | 哈希表                | easy       
+| 3484 | [设计电子表格](https://github.com/Marshal7cc/leetcode-java/blob/master/docs/hashtable/Spreadsheet.md)                              | 哈希表                | middle     
 
 ### linked-list
 
